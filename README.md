@@ -37,7 +37,8 @@ Primary purpose: build comfortable, transferable fixed-wing FPV stick habits. Ke
 | SH | Missile/weapon release | Momentary switch; use aircraft-appropriate release. |
 | SF + SH | Throttle cutoff, eject, or another special function | Exact action undecided. Keep unbound until chosen; avoid accidental combined weapon/emergency commands. |
 | SA, three positions | Ground brake / gear down / gear up | Clarify whether ground position means wheel brake or nosewheel steering. Use explicit commands where available, not repeated toggles. |
-| SB, three positions | Flaps **and** autopilot were both requested | Conflict to resolve before implementation. Autopilot request: off, altitude hold, heading plus altitude hold. Aircraft capability varies. |
+| SB, three positions | Flaps | User confirmed SB = flaps, SE = autopilot. Use explicit positions appropriate to each aircraft. |
+| SE, three positions | Autopilot | Off, altitude hold, heading plus altitude hold where supported. Do not invent autopilot modes for the Mustang. |
 | SC, three positions | Radar/mode select | Choose meaningful aircraft-specific modes; P-51D has no equivalent modern radar modes. |
 | SD, three positions | Armament/missile select | Aircraft-specific options; preserve consistent switch direction. |
 | LS / RS | Aircraft-specific continuous controls | F-14 wing sweep proposed; P-51 cooling/radiator control proposed. Check actual supported control behavior first. |
