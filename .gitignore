@@ -1,0 +1,21 @@
+# ignore the legacy pdfs since they may change later on
+ref_docs
+
+# Local-only runtime packages, generated files, and volatile data
+local_archives/
+work/
+**/node_modules/
+**/__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bin
+*.exe
+*.dll
+*.zip
+*.tpp
+*.7z
+*.pdf
+**/cache/
+.DS_Store
+Thumbs.db
