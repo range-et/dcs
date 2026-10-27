@@ -5,16 +5,21 @@ local diff = {
 		["d74pnilu75cdnilvdnilvpnilvunil"] = { ["name"] = "Wheel brake Both", ["added"] = { [1] = { ["key"] = "JOY_BTN3" } } },
 		["d3004pnilunilcd12vd0.1vpnilvunil"] = { ["name"] = "Landing Gear Down", ["added"] = { [1] = { ["key"] = "JOY_BTN2" } } },
 		["d3004pnilunilcd12vd0.2vpnilvunil"] = { ["name"] = "Landing Gear Up", ["added"] = { [1] = { ["key"] = "JOY_BTN1" } } },
-		["d3002pnilunilcd12vd1vpnilvunil"] = { ["name"] = "Flaps Up", ["added"] = { [1] = { ["key"] = "JOY_BTN6" } } },
-		["d3002pnilunilcd12vd0vpnilvunil"] = { ["name"] = "Flaps Down", ["added"] = { [1] = { ["key"] = "JOY_BTN4" } } },
 		["d3003pnilunilcd1vd0vpnilvunil"] = { ["name"] = "Gunsight mode FIXED", ["added"] = { [1] = { ["key"] = "JOY_BTN11" } } },
 		["d3003pnilunilcd1vd0.1vpnilvunil"] = { ["name"] = "Gunsight mode FIXED GYRO", ["added"] = { [1] = { ["key"] = "JOY_BTN10" } } },
 		["d3003pnilunilcd1vd0.2vpnilvunil"] = { ["name"] = "Gunsight mode GYRO", ["added"] = { [1] = { ["key"] = "JOY_BTN9" } } },
 		["d3007pnilunilcd13vd0vpnilvunil"] = { ["name"] = "Gun safety switch OFF", ["added"] = { [1] = { ["key"] = "JOY_BTN14" } } },
 		["d3007pnilunilcd13vd1vpnilvunil"] = { ["name"] = "Gun safety switch GUN CAMERA SIGHT", ["added"] = { [1] = { ["key"] = "JOY_BTN13" } } },
 		["d3007pnilunilcd13vd-1vpnilvunil"] = { ["name"] = "Gun safety switch CAMERA SIGHT", ["added"] = { [1] = { ["key"] = "JOY_BTN12" } } },
+		["d3001pnilu3001cd5vd0.1vpnilvu0"] = { ["name"] = "Radiator coolant Close", ["added"] = { [1] = { ["key"] = "JOY_BTN21" } } },
+		["d3009pnilunilcd5vd0.2vpnilvunil"] = { ["name"] = "Radiator coolant Auto", ["added"] = { [1] = { ["key"] = "JOY_BTN22" } } },
+		["d3001pnilu3001cd5vd0.3vpnilvu0"] = { ["name"] = "Radiator coolant Open", ["added"] = { [1] = { ["key"] = "JOY_BTN23" } } },
+		["d179pnilunilcdnilvdnilvpnilvunil"] = { ["name"] = "COMM Communication menu", ["added"] = { [1] = { ["key"] = "JOY_BTN25" } } },
 	},
+
 	["axisDiffs"] = {
+		["a3017cd12"] = { ["name"] = "Flaps", ["added"] = { [1] = { ["key"] = "JOY_SLIDER1", ["filter"] = { ["curvature"] = { [1] = 0 }, ["deadzone"] = 0, ["invert"] = false, ["saturationX"] = 1, ["saturationY"] = 1, ["slider"] = false } } } },
+		["a3026cd5"] = { ["name"] = "Engine RPM Setting", ["added"] = { [1] = { ["key"] = "JOY_RZ", ["filter"] = { ["curvature"] = { [1] = 0 }, ["deadzone"] = 0, ["invert"] = true, ["saturationX"] = 1, ["saturationY"] = 1, ["slider"] = false } } } },
 		["a2001cdnil"] = {
 			["changed"] = {
 				[1] = {

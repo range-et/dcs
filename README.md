@@ -2,6 +2,14 @@
 
 Personal DCS World setup for Touch Portal on iPad, DCS-COINS, DCS-BIOS, and a RadioMaster TX16S. The aim is a readable, consistent cockpit interface and transferable fixed-wing stick practice for FPV flying.
 
+## Current checkpoint
+
+The baseline and radio backups are committed. All five Touch Portal pages use Monad colours and readable labels. F-14BU ONLINE/parking-brake feedback passed a live check. The new Mustang page passed battery/generator, actual flap travel and selection feedback, cooling controls, radio/brake release timing, responsive ONLINE operation and a user flight-axis check. Normal shutdown changed the Mustang indicator to OFFLINE. These are representative checks, not a test of every aircraft switch.
+
+The DCS Cockpit radio model now has an original DCS badge and a refined 7-axis/26-button USB mapping. SG is communications/Jester. Additional SE outputs support the F-14 autopilot sequence; SB has a dedicated three-position Mustang flap axis. RS controls normal wing-sweep buttons on the F-14 and coolant control on the Mustang; LS is Mustang propeller RPM. These latest radio refinements are deployed but await reconnect and in-game checks. Cockpit/HOTAS synchronization is enabled with a saved rollback copy. The user's BIOS export-rate/sync code remains unchanged.
+
+See [radio layout and validation](docs/tx16s-layout.md), [Mustang checks](docs/p51-validation.md), [F-14 diagnosis](docs/f14-diagnosis.md), [theme details](docs/theme-port.md) and [backup/restore](docs/backup-and-restore.md). Deployment records under docs/deployments identify exact files, previous copies and hashes. All commits are local; nothing has been pushed.
+
 ## Working baseline
 
 The user fixed the iPad lag/disconnection issue and reports that FC3 now works. The current installed DCS-BIOS files include the user's update-rate and synchronization changes. Preserve this exact working state before further changes. Excessive update traffic is a suspected cause, not a proven diagnosis.

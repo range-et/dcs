@@ -1,0 +1,16 @@
+﻿[
+    {
+        "Source":  "C:\\Users\\range\\Desktop\\dcs\\config\\radio\\model7.yml",
+        "Target":  "G:\\MODELS\\model7.yml",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\radio-deployments\\20261026-215558\\model7.yml",
+        "BeforeSHA256":  "30E874E47FB65EF2EBA85870D5505D9F4CED0C336A1B8B1A52DD4D834D0DABED",
+        "AfterSHA256":  "9A27E7F8E943E86CB4319C9ADFBC720DEC841FA0EE1EA15DF22A7724EC88FB92"
+    },
+    {
+        "Source":  "C:\\Users\\range\\Desktop\\dcs\\assets\\radio\\dcs.png",
+        "Target":  "G:\\IMAGES\\dcs.png",
+        "Backup":  null,
+        "BeforeSHA256":  null,
+        "AfterSHA256":  "4D9FA30F4E386ADB6E09F467B06C2C9949A76A2A6DD4F410C54AE71C5D354D08"
+    }
+]

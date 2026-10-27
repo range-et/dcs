@@ -15,7 +15,9 @@ local diff = {
 		["d408pnilunilcdnilvdnilvpnilvunil"] = { ["name"] = "Autopilot Disengage", ["added"] = { [1] = { ["key"] = "JOY_BTN17" } } },
 		["d389pnilunilcdnilvdnilvpnilvunil"] = { ["name"] = "Autopilot - Altitude Hold", ["added"] = { [1] = { ["key"] = "JOY_BTN16" } } },
 		["d62pnilunilcdnilvdnilvpnilvunil"] = { ["name"] = "Autopilot - Attitude Hold", ["added"] = { [1] = { ["key"] = "JOY_BTN15" } } },
+		["d179pnilunilcdnilvdnilvpnilvunil"] = { ["name"] = "Communication menu", ["added"] = { [1] = { ["key"] = "JOY_BTN25" } } },
 	},
+
 	["axisDiffs"] = {
 		["a2001cdnil"] = {
 			["changed"] = {

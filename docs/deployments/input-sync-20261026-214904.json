@@ -1,0 +1,7 @@
+﻿{
+    "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\options.lua",
+    "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\options-deployments\\20261026-214904\\options.lua",
+    "BeforeSHA256":  "DE298879A086FE3815EF0612EDC37FAFF60AED87D23A284C8F82FCB270747875",
+    "AfterSHA256":  "4505F780A04B8F9AAFDECF2950F7C99A902916DEABDFF6AC305CA29CE3969ED1",
+    "Change":  "miscellaneous.synchronize_controls false -\u003e true"
+}

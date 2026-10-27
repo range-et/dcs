@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="114" viewBox="0 0 192 114">
+<rect width="192" height="114" fill="#0F1113"/>
+<polyline points="3,23 3,3 23,3" fill="none" stroke="#2B9ED1" stroke-width="2"/>
+<polyline points="169,3 189,3 189,23" fill="none" stroke="#2B9ED1" stroke-width="2"/>
+<polyline points="3,91 3,111 23,111" fill="none" stroke="#2B9ED1" stroke-width="2"/>
+<polyline points="169,111 189,111 189,91" fill="none" stroke="#2B9ED1" stroke-width="2"/>
+<text x="13" y="15" dominant-baseline="text-before-edge" font-family="Consolas,monospace" font-size="9" font-weight="bold" fill="#B6BFCC">MONAD / 01</text>
+<text x="10" y="33" dominant-baseline="text-before-edge" font-family="Consolas,monospace" font-size="44" font-weight="bold" fill="#EEF2F6">DCS</text>
+<text x="13" y="83" dominant-baseline="text-before-edge" font-family="Consolas,monospace" font-size="12" font-weight="bold" fill="#2B9ED1">FLIGHTDECK</text>
+<polyline points="13,102 103,102" fill="none" stroke="#D7A12A" stroke-width="2"/>
+<polygon points="151,17 156,39 177,56 177,64 158,58 157,81 168,94 168,98 151,92 134,98 134,94 145,81 144,58 125,64 125,56 146,39" fill="#1F242B"/>
+<polyline points="151,17 156,39 177,56 177,64 158,58 157,81 168,94 168,98 151,92 134,98 134,94 145,81 144,58 125,64 125,56 146,39 151,17" fill="none" stroke="#2B9ED1" stroke-width="1"/>
+<polyline points="151,31 151,87" fill="none" stroke="#EEF2F6" stroke-width="1"/>
+</svg>

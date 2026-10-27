@@ -1,0 +1,30 @@
+﻿[
+    {
+        "File":  "F-14B\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  "5BED08E4F6DD0DD3E893A89CA682DD08146AAC947EC428E35DFD5B1279BA4D91",
+        "AfterSHA256":  "D54548DA369D8211E3DFEE7611BC1A5FF16298AD01CF7247F2A8590F6EDF42B0",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\input-deployments\\20261026-215630\\F-14B\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\F-14B\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    },
+    {
+        "File":  "F-14BU\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  "5BED08E4F6DD0DD3E893A89CA682DD08146AAC947EC428E35DFD5B1279BA4D91",
+        "AfterSHA256":  "D54548DA369D8211E3DFEE7611BC1A5FF16298AD01CF7247F2A8590F6EDF42B0",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\input-deployments\\20261026-215630\\F-14BU\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\F-14BU\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    },
+    {
+        "File":  "F-15C\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  "6C63F77E4D4B50525D77A5A6BD35C9D0AB9C9779D72577F5A6A227943BE2B11B",
+        "AfterSHA256":  "C6AFA00A07A51DAED97B77AC3140273B970CE25BD16295018B1F328144EC3462",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\input-deployments\\20261026-215630\\F-15C\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\F-15C\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    },
+    {
+        "File":  "P-51D\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  "AB27C9B32F6D7310BA6236A21DBC744072DA25E3924B6AE2422E3AD06D0091C0",
+        "AfterSHA256":  "0432BF9248624D78E90A352257C6D631898A4BFE78BD63EB86872CC6199E49D6",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\input-deployments\\20261026-215630\\P-51D\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\P-51D\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    }
+]

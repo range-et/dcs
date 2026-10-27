@@ -13,7 +13,16 @@ local diff = {
 		["d3079pnilunilcd55vd0.5vpnilvunil"] = { ["name"] = "Weapon Selector Sparrow or Phoenix Missiles", ["added"] = { [1] = { ["key"] = "JOY_BTN13" } } },
 		["d3079pnilunilcd55vd-0.5vpnilvunil"] = { ["name"] = "Weapon Selector Sidewinder Missiles", ["added"] = { [1] = { ["key"] = "JOY_BTN12" } } },
 		["d3040pnilunilcd22vd-1vpnilvunil"] = { ["name"] = "Autopilot Off", ["added"] = { [1] = { ["key"] = "JOY_BTN17" } } },
+		["d3040pnilu3040cd22vd1vpnilvu-1"] = { ["name"] = "Autopilot On, else Off", ["added"] = { [1] = { ["key"] = "JOY_BTN18" } } },
+		["d3038pnilu3038cd22vd1vpnilvu-1"] = { ["name"] = "Altitude Hold On, else Off", ["added"] = { [1] = { ["key"] = "JOY_BTN19" } } },
+		["d3039pnilu3039cd22vd1vpnilvu0"] = { ["name"] = "Heading Hold On, else Off", ["added"] = { [1] = { ["key"] = "JOY_BTN20" } } },
+		["d3026pnilu3026cd17vd1vpnilvu0"] = { ["name"] = "Wing Sweep Aft", ["added"] = { [1] = { ["key"] = "JOY_BTN21" } } },
+		["d3024pnilu3024cd17vd1vpnilvu0"] = { ["name"] = "Wing Sweep Auto Mode", ["added"] = { [1] = { ["key"] = "JOY_BTN22" } } },
+		["d3025pnilu3025cd17vd1vpnilvu0"] = { ["name"] = "Wing Sweep Forward", ["added"] = { [1] = { ["key"] = "JOY_BTN23" } } },
+		["d179pnilunilcdnilvdnilvpnilvunil"] = { ["name"] = "Communication menu", ["added"] = { [1] = { ["key"] = "JOY_BTN25" } } },
+		["d3550pnilu3550cd62vd1vpnilvu-1"] = { ["name"] = "Toggle Menu", ["added"] = { [1] = { ["key"] = "JOY_BTN24" } } },
 	},
+
 	["axisDiffs"] = {
 		["a2001cdnil"] = {
 			["changed"] = {

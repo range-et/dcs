@@ -1,4 +1,6 @@
 // Derive a separate simulator model from the backed-up Sim CABEL model.
+// Historical first checkpoint only. The current profile is built by refine-radio.py.
+if(!process.argv.includes('--initial'))throw Error('Use tools/refine-radio.py for the current profile; --initial rebuilds only the historical first checkpoint.');
 const fs=require('fs'),path=require('path');
 const root=path.resolve(__dirname,'..');
 const source=fs.readFileSync(path.join(root,'backups/tx16s/20261026/MODELS/model1.yml'),'utf8');

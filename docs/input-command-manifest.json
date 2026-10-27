@@ -138,6 +138,15 @@
     "down": 62
   },
   {
+    "module": "F-15C",
+    "name": "Communication menu",
+    "buttons": [
+      25
+    ],
+    "hash": "d179pnilunilcdnilvdnilvpnilvunil",
+    "down": 179
+  },
+  {
     "module": "P-51D",
     "name": "Gun fire",
     "buttons": [
@@ -191,25 +200,19 @@
   },
   {
     "module": "P-51D",
-    "name": "Flaps Up",
-    "buttons": [
-      6
-    ],
-    "hash": "d3002pnilunilcd12vd1vpnilvunil",
-    "down": 3002,
-    "cockpit_device_id": 12,
-    "value_down": 1
+    "name": "Flaps",
+    "hash": "a3017cd12",
+    "key": "JOY_SLIDER1",
+    "invert": false,
+    "kind": "axis"
   },
   {
     "module": "P-51D",
-    "name": "Flaps Down",
-    "buttons": [
-      4
-    ],
-    "hash": "d3002pnilunilcd12vd0vpnilvunil",
-    "down": 3002,
-    "cockpit_device_id": 12,
-    "value_down": 0
+    "name": "Engine RPM Setting",
+    "hash": "a3026cd5",
+    "key": "JOY_RZ",
+    "invert": true,
+    "kind": "axis"
   },
   {
     "module": "P-51D",
@@ -278,6 +281,52 @@
     "value_down": -1
   },
   {
+    "module": "P-51D",
+    "name": "Radiator coolant Close",
+    "buttons": [
+      21
+    ],
+    "hash": "d3001pnilu3001cd5vd0.1vpnilvu0",
+    "down": 3001,
+    "up": 3001,
+    "cockpit_device_id": 5,
+    "value_down": 0.1,
+    "value_up": 0
+  },
+  {
+    "module": "P-51D",
+    "name": "Radiator coolant Auto",
+    "buttons": [
+      22
+    ],
+    "hash": "d3009pnilunilcd5vd0.2vpnilvunil",
+    "down": 3009,
+    "cockpit_device_id": 5,
+    "value_down": 0.2
+  },
+  {
+    "module": "P-51D",
+    "name": "Radiator coolant Open",
+    "buttons": [
+      23
+    ],
+    "hash": "d3001pnilu3001cd5vd0.3vpnilvu0",
+    "down": 3001,
+    "up": 3001,
+    "cockpit_device_id": 5,
+    "value_down": 0.3,
+    "value_up": 0
+  },
+  {
+    "module": "P-51D",
+    "name": "COMM Communication menu",
+    "buttons": [
+      25
+    ],
+    "hash": "d179pnilunilcdnilvdnilvpnilvunil",
+    "down": 179
+  },
+  {
     "module": "F-14BU",
     "name": "Trigger",
     "buttons": [
@@ -425,6 +474,106 @@
     "value_down": -1
   },
   {
+    "module": "F-14BU",
+    "name": "Autopilot On, else Off",
+    "buttons": [
+      18
+    ],
+    "hash": "d3040pnilu3040cd22vd1vpnilvu-1",
+    "down": 3040,
+    "cockpit_device_id": 22,
+    "value_down": 1,
+    "up": 3040,
+    "value_up": -1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Altitude Hold On, else Off",
+    "buttons": [
+      19
+    ],
+    "hash": "d3038pnilu3038cd22vd1vpnilvu-1",
+    "down": 3038,
+    "cockpit_device_id": 22,
+    "value_down": 1,
+    "up": 3038,
+    "value_up": -1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Heading Hold On, else Off",
+    "buttons": [
+      20
+    ],
+    "hash": "d3039pnilu3039cd22vd1vpnilvu0",
+    "down": 3039,
+    "cockpit_device_id": 22,
+    "value_down": 1,
+    "up": 3039,
+    "value_up": 0
+  },
+  {
+    "module": "F-14BU",
+    "name": "Wing Sweep Aft",
+    "buttons": [
+      21
+    ],
+    "hash": "d3026pnilu3026cd17vd1vpnilvu0",
+    "down": 3026,
+    "cockpit_device_id": 17,
+    "value_down": 1,
+    "up": 3026,
+    "value_up": 0
+  },
+  {
+    "module": "F-14BU",
+    "name": "Wing Sweep Auto Mode",
+    "buttons": [
+      22
+    ],
+    "hash": "d3024pnilu3024cd17vd1vpnilvu0",
+    "down": 3024,
+    "cockpit_device_id": 17,
+    "value_down": 1,
+    "up": 3024,
+    "value_up": 0
+  },
+  {
+    "module": "F-14BU",
+    "name": "Wing Sweep Forward",
+    "buttons": [
+      23
+    ],
+    "hash": "d3025pnilu3025cd17vd1vpnilvu0",
+    "down": 3025,
+    "cockpit_device_id": 17,
+    "value_down": 1,
+    "up": 3025,
+    "value_up": 0
+  },
+  {
+    "module": "F-14BU",
+    "name": "Communication menu",
+    "buttons": [
+      25
+    ],
+    "hash": "d179pnilunilcdnilvdnilvpnilvunil",
+    "down": 179
+  },
+  {
+    "module": "F-14BU",
+    "name": "Toggle Menu",
+    "buttons": [
+      24
+    ],
+    "hash": "d3550pnilu3550cd62vd1vpnilvu-1",
+    "down": 3550,
+    "cockpit_device_id": 62,
+    "value_down": 1,
+    "up": 3550,
+    "value_up": -1
+  },
+  {
     "module": "F-14B",
     "name": "Trigger",
     "buttons": [
@@ -570,5 +719,105 @@
     "down": 3040,
     "cockpit_device_id": 22,
     "value_down": -1
+  },
+  {
+    "module": "F-14B",
+    "name": "Autopilot On, else Off",
+    "buttons": [
+      18
+    ],
+    "hash": "d3040pnilu3040cd22vd1vpnilvu-1",
+    "down": 3040,
+    "cockpit_device_id": 22,
+    "value_down": 1,
+    "up": 3040,
+    "value_up": -1
+  },
+  {
+    "module": "F-14B",
+    "name": "Altitude Hold On, else Off",
+    "buttons": [
+      19
+    ],
+    "hash": "d3038pnilu3038cd22vd1vpnilvu-1",
+    "down": 3038,
+    "cockpit_device_id": 22,
+    "value_down": 1,
+    "up": 3038,
+    "value_up": -1
+  },
+  {
+    "module": "F-14B",
+    "name": "Heading Hold On, else Off",
+    "buttons": [
+      20
+    ],
+    "hash": "d3039pnilu3039cd22vd1vpnilvu0",
+    "down": 3039,
+    "cockpit_device_id": 22,
+    "value_down": 1,
+    "up": 3039,
+    "value_up": 0
+  },
+  {
+    "module": "F-14B",
+    "name": "Wing Sweep Aft",
+    "buttons": [
+      21
+    ],
+    "hash": "d3026pnilu3026cd17vd1vpnilvu0",
+    "down": 3026,
+    "cockpit_device_id": 17,
+    "value_down": 1,
+    "up": 3026,
+    "value_up": 0
+  },
+  {
+    "module": "F-14B",
+    "name": "Wing Sweep Auto Mode",
+    "buttons": [
+      22
+    ],
+    "hash": "d3024pnilu3024cd17vd1vpnilvu0",
+    "down": 3024,
+    "cockpit_device_id": 17,
+    "value_down": 1,
+    "up": 3024,
+    "value_up": 0
+  },
+  {
+    "module": "F-14B",
+    "name": "Wing Sweep Forward",
+    "buttons": [
+      23
+    ],
+    "hash": "d3025pnilu3025cd17vd1vpnilvu0",
+    "down": 3025,
+    "cockpit_device_id": 17,
+    "value_down": 1,
+    "up": 3025,
+    "value_up": 0
+  },
+  {
+    "module": "F-14B",
+    "name": "Communication menu",
+    "buttons": [
+      25
+    ],
+    "hash": "d179pnilunilcdnilvdnilvpnilvunil",
+    "down": 179
+  },
+  {
+    "module": "F-14B",
+    "name": "Toggle Menu",
+    "buttons": [
+      24
+    ],
+    "hash": "d3550pnilu3550cd62vd1vpnilvu-1",
+    "down": 3550,
+    "cockpit_device_id": 62,
+    "value_down": 1,
+    "up": 3550,
+    "value_up": -1
   }
 ]

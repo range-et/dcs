@@ -2,6 +2,8 @@
 
 Confirmed by the user: SB is flaps; SE is autopilot. SA is the gear/ground switch, SC mode/radar, SD armament, SF guns, SH weapon release. SF+SH stays unbound until its exact emergency purpose is chosen.
 
+Current refinement: 7 USB axes / 26 buttons, deployed after the user selected USB Storage. See the final section below; it supersedes the historical initial mapping. The model image is now assets/radio/dcs.png, an original Monad vector badge exported at the same 192x114 dimensions as the previous image. The original Sim CABEL model and edge.jpg image were not changed.
+
 The existing F-15C and P-51D profiles agree on stick channels: pitch JOY_Y inverted, roll JOY_RX, rudder JOY_X, throttle JOY_Z inverted. Preserve their current filters, including the Mustang curves. The baseline has no F-14BU joystick profile, only keyboard overrides.
 
 Before mapping switches, measure the USB outputs for each physical position. tools/read-radio.ps1 reads the Windows joystick values without sending input or changing the radio. The original profile exposed six WinMM axes and 24 buttons; the DCS Cockpit profile exposes six axes and 17 buttons. A switch name must not be guessed from a JOY_BTN number. A radio model can change that correspondence.
@@ -56,3 +58,24 @@ These are initial bindings, not a claim that every requested function is finishe
 With the P-51D Take Off Batumi sample running, the user cycled SA MIDDLE -> UP and confirmed the brake held, including during a high-throttle check. The first attempt had rolled off the runway and crashed before that held-switch behavior was verified. The restarted sample exported roughly 1,640 RPM and 1,070 PSI of hydraulic pressure, then continued running during the user's manual flight (188 knots / 4,950 feet observed, later about 2,960 RPM / 1,040 PSI). Do not count that as verification of every switch or flap travel.
 
 The saved DCS miscellaneous.synchronize_controls option is currently false. tools/set-input-sync.ps1 previews a change to true and requires DCS to be closed before applying it. It backs up the exact previous options.lua and records hashes. This change is prepared, not applied. Its purpose is to pick up the physical HOTAS positions at mission start; the ground/air-start switch positions must be set appropriately before loading. The [official DCS user manual](https://www.digitalcombatsimulator.com/upload/iblock/ed6/87v22jwd1xh51i3rgki944xsf503istq/DCS_User_Manual_EN_2020.pdf) documents the synchronization option. Its behavior still needs a fresh-load check on this installation.
+
+## Refined profile, awaiting reconnect test
+
+The user confirmed the four flight axes and responsive ONLINE iPad operation in flight, followed by successful shutdown/OFFLINE. After DCS exited, synchronize_controls was enabled; docs/deployments/input-sync-20261026-214904.json records the exact previous options.lua backup and hashes. The earlier paragraph describes the pre-change state.
+
+The model loaded from the radio after the flight is preserved under backups/tx16s/20261026-refinement, including its current trims and original 17 mixer entries. tools/refine-radio.py extends that snapshot; all four inputs, flight-mode trims and the 17 existing mixers are asserted unchanged. The first 17 USB buttons and the existing six axes retain their assignments. SG and auxiliary virtual channels extend the descriptor to seven axes and 26 buttons. The [EdgeTX 2.12 USB implementation](https://github.com/EdgeTX/edgetx/blob/2.12/radio/src/usb_joystick.cpp) documents the button threshold/quantization used here.
+
+| Physical control | Refined role |
+|---|---|
+| SG UP / MIDDLE / DOWN | Neutral / communications menu / F-14 Jester menu; DOWN unbound in F-15C and P-51D |
+| SE, F-14 UP / MIDDLE / DOWN | AP off / engage + altitude hold / keep altitude + heading hold; cockpit AFCS prerequisites still apply |
+| SB, P-51D UP / MIDDLE / DOWN | Dedicated slider axis targets UP / 20 DEG / DOWN; endpoint/direction check pending |
+| LS, P-51D | Propeller-RPM setting; forward intended as maximum; direction check pending |
+| RS, P-51D BACK / MIDDLE / FORWARD | Coolant CLOSE / AUTO / OPEN; open cooling covers first; oil remains controlled by the iPad AUTO button |
+| RS, F-14 BACK / MIDDLE / FORWARD | Normal wing sweep AFT / AUTO / FORWARD buttons; uses no emergency sweep lever or oversweep axis |
+
+SE adds virtual buttons 18/19/20: none in UP, 18+19 in MIDDLE, and 18+19+20 in DOWN. These let separate native F-14 commands remain held together without assigning one joystick button to multiple DCS actions. RS uses buttons 21/22/23; SG UP/MIDDLE/DOWN uses 26/25/24. The extra SB axis uses JOY_SLIDER1. F-15C SE remains OFF / altitude hold / attitude hold because its native profile does not expose the requested combined heading-plus-altitude command. F-15C SD DOWN remains unbound; missile-type selection still uses its native next-weapon action in MIDDLE.
+
+The badge source is assets/radio/dcs.svg; tools/build-radio-badge.py exports the PNG. Only G:/MODELS/model7.yml and G:/IMAGES/dcs.png were written to the radio. tools/deploy-radio.ps1 verifies the ICARUS_DATA volume, model name and copied hashes, retaining the previous model locally. Deployment records radio-20261026-215558.json and inputs-20261026-215630.json identify the live refinements. These additions are not yet marked tested.
+
+For the next parked test: SA/SB/SC/SD/SE/SG UP, SF released, SH released, throttle idle, LS forward and RS MIDDLE (AUTO). Ground-start and air-start gear/brake positions differ; set them for the mission before loading now that startup sync is enabled. Check the descriptor, SG menus, Mustang SB detents/LS/RS and F-14 SE/RS before considering the refinements complete.
