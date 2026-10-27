@@ -652,8 +652,8 @@
             "KEY_IS_TRANSPARENT": false
           },
           {
-            "TT": 1,
-            "KEY_TIMER_VALUE": "2",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "2000",
             "kIEn": true,
             "kTS": 1,
             "KEY_TYPE": "TIMER_ACTION"
@@ -686,8 +686,8 @@
             "KEY_IS_TRANSPARENT": false
           },
           {
-            "TT": 1,
-            "KEY_TIMER_VALUE": "0,5",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "500",
             "kIEn": true,
             "kTS": 1,
             "KEY_TYPE": "TIMER_ACTION"

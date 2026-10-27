@@ -111,7 +111,7 @@ connection(fc3,'fc3');connection(pages['DCS/FC3 Navigation & Sensor Panel.tml'],
 const entry=read('baseline/touchportal/plugins/Munt.G_DCS-COINS/entry.tp');
 const cat=entry.categories.find(x=>x.id==='mgdc_p-51d');
 function p51Gate(name,value){const e=cat.events.find(e=>e.id==='mgdc_p-51d_ev_'+name);if(!e)throw Error('Missing event '+name);return {...gate(e.valueStateId,value),kChoices:e.valueChoices||[],kVT:e.valueType,kFormat:e.format,kName:e.name};}
-function selection(b,name,selected,values){b.E=values.flatMap(value=>[p51Gate(name,value),visual(b.T,value===selected?c.good:c.text,value===selected?c.active:c.surface)]);return b;}
+function selection(b,name,selected,values){b.E=values.flatMap(value=>[p51Gate(name,value),visual(b.T+(value===selected?'\nSELECTED':''),value===selected?c.good:c.text,value===selected?c.active:c.surface)]);return b;}
 const template=originals['DCS/F14.tml'].BUTTONS[1][0];
 const p51=clone(main);p51.KEY_TITLE='P-51D';p51.KEY_ID='monad-p51d-20261026';p51.KEY_COLUMNS=8;p51.KEY_ROWS=6;
  p51.BUTTONS=Array.from({length:15},()=>Array.from({length:15},()=>({})));
@@ -119,7 +119,7 @@ let serial=0;
 function button(x,y,title,action,cols=1){const b=clone(template);b.id='monad_p51_'+(++serial);b.T=title;b.COLS=cols;b.ROWS=1;b.A=action?[action]:[];b.E=[];b.C=[];b.I='';styleButton(b);b.TS=22;p51.BUTTONS[y][x]=b;return b;}
 function action(name,value){const def=cat.actions.find(a=>a.id==='mgdc_p-51d_ac_'+name);if(!def)throw Error('Missing action '+name);const d=def.data[0];if(d.valueChoices&&!d.valueChoices.includes(value))throw Error('Invalid '+name+' value '+value);return {KEY_TYPE:'PLUGIN_ACTION',kIEn:true,kPlugType:2,kID:def.id,kPrefix:'P-51D',kPID:entry.id,kName:def.name,kET:0,kData:clone(def.data),kVals:[{VAL:value,ID:d.id,TYPE:d.type}],kInline:'false',kHHF:'false',kStatic:'false'};}
 function toggle(x,y,title,name){const b=button(x,y,title,action(name,'[TOGGLE]'));const s='mgdc_p-51d_st_'+name;b.E=[gate(s,'ON'),visual(label(title)+'\nON',c.good,c.active),gate(s,'OFF'),visual(label(title)+'\nOFF')];return b;}
-function pulse(name,ms=200){return [action(name,'[1] ON'),{KEY_TYPE:'TIMER_ACTION',kIEn:true,TT:1,KEY_TIMER_VALUE:String(ms/1000),kTS:1},action(name,'[0] OFF')];}
+function pulse(name,ms=200){return [action(name,'[1] ON'),{KEY_TYPE:'TIMER_ACTION',kIEn:true,TT:0,KEY_TIMER_VALUE:String(ms),kTS:1},action(name,'[0] OFF')];}
 function readout(x,y,title,state,cols=2){const b=button(x,y,title,null,cols);b.E=[{KEY_TYPE:'AUTO_UPDATE_EVENT',kIEn:true,kTxt:title+'\n${value:'+state+'}'}];return b;}
 button(0,0,'P-51D\nMUSTANG',null,2).TC=c.info;
 button(2,0,'OFFLINE',null,2);connection(p51,'p-51d');
@@ -146,7 +146,10 @@ button(6,4,'COCKPIT\nF1',f1);button(7,4,'EXTERNAL\nF2',f2);
 button(0,5,'HOME',{KEY_TYPE:'GOTO_PAGE_ACTION',kIEn:true,KEY_PAGE_NAME:'\\(main).tml'},2);
 button(2,5,'FLIGHT\nCOOLING / GEAR',null,4).TC=c.muted;
 button(6,5,'F-14',{KEY_TYPE:'GOTO_PAGE_ACTION',kIEn:true,KEY_PAGE_NAME:'\\DCS\\F14.tml'},2);
+// Theme the new controls without replacing their explicit numeric-state feedback.
+const p51Feedback=new Map(p51.BUTTONS.flat().filter(b=>b.id).map(b=>[b.id,clone(b.E)]));
 pages['DCS/P-51D.tml']=theme(p51);
+for(const b of p51.BUTTONS.flat())if(b.id)b.E=p51Feedback.get(b.id);
 // Add Mustang navigation to an empty launcher slot.
 const nav=clone(main.BUTTONS[0][5]);nav.id='monad_home_p51';nav.T='P-51D';nav.A=[{KEY_TYPE:'GOTO_PAGE_ACTION',kIEn:true,KEY_PAGE_NAME:'\\DCS\\P-51D.tml'}];main.BUTTONS[1][0]=nav;
 const launchers=main.BUTTONS[0].slice(0,6);main.KEY_COLUMNS=4;main.KEY_ROWS=2;
@@ -158,6 +161,11 @@ for(let i=0;i<3;i++)main.BUTTONS[1][i]=launchers[i+3];main.BUTTONS[1][3]=nav;
 for(const b of main.BUTTONS.flat())if(b.id)b.TS=14;
 // Remove image-only decoration which has no state or action; keep other controls intact.
 for(const [file,page] of Object.entries(pages)){
+ for(const b of page.BUTTONS.flat())for(const group of ['A','E','C'])for(const a of b[group]||[])if(a.KEY_TYPE==='TIMER_ACTION'&&a.TT===1){
+  const seconds=Number(String(a.KEY_TIMER_VALUE).replace(',','.'));
+  if(!Number.isFinite(seconds)||seconds<0)throw Error('Invalid wait in '+file);
+  a.TT=0;a.KEY_TIMER_VALUE=String(Math.round(seconds*1000));
+ }
  for(const b of page.BUTTONS.flat())if(b.id)fitLabel(b);
  for(const row of page.BUTTONS)for(let i=0;i<row.length;i++)if(row[i].id&&!row[i].T&&!row[i].A?.length&&!row[i].E?.length)row[i]={};
  const out=path.join(root,'pages',file);fs.mkdirSync(path.dirname(out),{recursive:true});fs.writeFileSync(out,JSON.stringify(page,null,2)+'\n');

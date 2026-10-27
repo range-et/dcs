@@ -12,4 +12,10 @@ The user confirmed ONLINE and battery/generator ON feedback before and after the
 
 The first mobile flap/cooling test failed according to the user. Do not count the direct API probes as a passing mobile test. The revised flap buttons now highlight their actual exported detent; cooling buttons highlight enum 2. The final build was deployed with hashes recorded under docs/deployments, and a new mobile retest was requested.
 
-Pending: revised mobile flap/cooling test; shutdown status. An ONLINE indicator alone is not a complete validation.
+Follow-up tracing on 2026-10-26 confirmed that mobile FLAPS UP arrived as `mgdc_p-51d_ac_flaps_control_handle`, was forwarded as `FLAPS_CONTROL_HANDLE 65535`, and returned raw 65535 from DCS. The user then confirmed the cockpit handle was changing. The apparent failure included a page feedback bug: the theme pass replaced the newly generated numeric-selection colours with the default colour. The builder now preserves the Mustang's explicit event visuals and adds SELECTED to the matching label. After deployment 20261026-211301 and restart with the original installed DCS-COINS.exe, the user confirmed the flap SELECTED feedback works.
+
+Touch Portal also logged invalid timer values for the new fractional-second release waits. Waits now use integer milliseconds, including the two inherited F-14 waits. This preserves their intended duration while avoiding fractional parsing. Radio-channel and brake release timing still needs a live retest.
+
+A bounded cold-start attempt briefly produced ENGINE_RPM_VALUE = 1246 and hydraulic pressure. Later observation returned RPM = 0 and no pressure. Do not describe the engine as remaining running. The handle-position round trip is verified; actual hydraulic flap travel with a sustained running engine remains pending. Cooling feedback, timed releases and shutdown status also remain pending.
+
+The diagnostic Node process used an extracted copy of the existing plugin with action logging. It was terminated when Touch Portal shut down; the restarted desktop launched its original installed DCS-COINS.exe. No replacement plugin runtime was installed. BIOSStateMachine.lua still matches the user's baseline SHA-256.

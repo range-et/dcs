@@ -198,7 +198,7 @@
             "KEY_IS_CHANGE_TITLE": true,
             "KEY_TITLE": "OFFLINE",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -4800564,
             "KEY_IS_CHANGE_BG_COLOR": true,
             "KEY_START_COLOR": -14736341,
             "KEY_END_COLOR": -14736341,
@@ -1761,8 +1761,8 @@
           {
             "KEY_TYPE": "TIMER_ACTION",
             "kIEn": true,
-            "TT": 1,
-            "KEY_TIMER_VALUE": "0.2",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "200",
             "kTS": 1
           },
           {
@@ -2367,12 +2367,12 @@
             "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
             "kIEn": true,
             "KEY_IS_CHANGE_TITLE": true,
-            "KEY_TITLE": "FLAPS\nUP",
+            "KEY_TITLE": "FLAPS\nUP\nSELECTED",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -9523899,
             "KEY_IS_CHANGE_BG_COLOR": true,
-            "KEY_START_COLOR": -14736341,
-            "KEY_END_COLOR": -14736341,
+            "KEY_START_COLOR": -14012102,
+            "KEY_END_COLOR": -14012102,
             "KEY_IS_CHANGE_ICON": true,
             "KEY_FILENAME": "",
             "KEY_ALT_FILENAME": "",
@@ -2432,7 +2432,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 23,
+        "TS": 14,
         "ROWS": 1
       },
       {
@@ -2624,12 +2624,12 @@
             "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
             "kIEn": true,
             "KEY_IS_CHANGE_TITLE": true,
-            "KEY_TITLE": "FLAPS\n20 DEG",
+            "KEY_TITLE": "FLAPS\n20 DEG\nSELECTED",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -9523899,
             "KEY_IS_CHANGE_BG_COLOR": true,
-            "KEY_START_COLOR": -14736341,
-            "KEY_END_COLOR": -14736341,
+            "KEY_START_COLOR": -14012102,
+            "KEY_END_COLOR": -14012102,
             "KEY_IS_CHANGE_ICON": true,
             "KEY_FILENAME": "",
             "KEY_ALT_FILENAME": "",
@@ -2759,7 +2759,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 21,
+        "TS": 14,
         "ROWS": 1
       },
       {
@@ -2846,12 +2846,12 @@
             "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
             "kIEn": true,
             "KEY_IS_CHANGE_TITLE": true,
-            "KEY_TITLE": "FLAPS\nDOWN",
+            "KEY_TITLE": "FLAPS\nDOWN\nSELECTED",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -9523899,
             "KEY_IS_CHANGE_BG_COLOR": true,
-            "KEY_START_COLOR": -14736341,
-            "KEY_END_COLOR": -14736341,
+            "KEY_START_COLOR": -14012102,
+            "KEY_END_COLOR": -14012102,
             "KEY_IS_CHANGE_ICON": true,
             "KEY_FILENAME": "",
             "KEY_ALT_FILENAME": "",
@@ -3086,7 +3086,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 23,
+        "TS": 14,
         "ROWS": 1
       },
       {
@@ -3152,8 +3152,8 @@
             "KEY_IS_CHANGE_TEXT_COLOR": true,
             "KEY_TEXT_COLOR": -9523899,
             "KEY_IS_CHANGE_BG_COLOR": true,
-            "KEY_START_COLOR": -14012102,
-            "KEY_END_COLOR": -14012102,
+            "KEY_START_COLOR": -14736341,
+            "KEY_END_COLOR": -14736341,
             "KEY_IS_CHANGE_ICON": true,
             "KEY_FILENAME": "",
             "KEY_ALT_FILENAME": "",
@@ -3188,7 +3188,7 @@
             "KEY_IS_CHANGE_TITLE": true,
             "KEY_TITLE": "DOWN LAMP\nOFF",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -4800564,
             "KEY_IS_CHANGE_BG_COLOR": true,
             "KEY_START_COLOR": -14736341,
             "KEY_END_COLOR": -14736341,
@@ -3637,12 +3637,12 @@
             "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
             "kIEn": true,
             "KEY_IS_CHANGE_TITLE": true,
-            "KEY_TITLE": "COOLANT\nAUTO",
+            "KEY_TITLE": "COOLANT\nAUTO\nSELECTED",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -9523899,
             "KEY_IS_CHANGE_BG_COLOR": true,
-            "KEY_START_COLOR": -14736341,
-            "KEY_END_COLOR": -14736341,
+            "KEY_START_COLOR": -14012102,
+            "KEY_END_COLOR": -14012102,
             "KEY_IS_CHANGE_ICON": true,
             "KEY_FILENAME": "",
             "KEY_ALT_FILENAME": "",
@@ -3742,7 +3742,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {},
@@ -3921,12 +3921,12 @@
             "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
             "kIEn": true,
             "KEY_IS_CHANGE_TITLE": true,
-            "KEY_TITLE": "OIL\nAUTO",
+            "KEY_TITLE": "OIL\nAUTO\nSELECTED",
             "KEY_IS_CHANGE_TEXT_COLOR": true,
-            "KEY_TEXT_COLOR": -1117450,
+            "KEY_TEXT_COLOR": -9523899,
             "KEY_IS_CHANGE_BG_COLOR": true,
-            "KEY_START_COLOR": -14736341,
-            "KEY_END_COLOR": -14736341,
+            "KEY_START_COLOR": -14012102,
+            "KEY_END_COLOR": -14012102,
             "KEY_IS_CHANGE_ICON": true,
             "KEY_FILENAME": "",
             "KEY_ALT_FILENAME": "",
@@ -4026,7 +4026,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {},
@@ -4094,8 +4094,8 @@
           {
             "KEY_TYPE": "TIMER_ACTION",
             "kIEn": true,
-            "TT": 1,
-            "KEY_TIMER_VALUE": "0.2",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "200",
             "kTS": 1
           },
           {
@@ -4254,8 +4254,8 @@
           {
             "KEY_TYPE": "TIMER_ACTION",
             "kIEn": true,
-            "TT": 1,
-            "KEY_TIMER_VALUE": "0.2",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "200",
             "kTS": 1
           },
           {
@@ -4414,8 +4414,8 @@
           {
             "KEY_TYPE": "TIMER_ACTION",
             "kIEn": true,
-            "TT": 1,
-            "KEY_TIMER_VALUE": "0.2",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "200",
             "kTS": 1
           },
           {
@@ -4574,8 +4574,8 @@
           {
             "KEY_TYPE": "TIMER_ACTION",
             "kIEn": true,
-            "TT": 1,
-            "KEY_TIMER_VALUE": "0.2",
+            "TT": 0,
+            "KEY_TIMER_VALUE": "200",
             "kTS": 1
           },
           {
