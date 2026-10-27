@@ -95,7 +95,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -871,7 +871,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 23,
         "ROWS": 1
       },
       {},
@@ -969,7 +969,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 24,
         "ROWS": 1
       },
       {},
@@ -1237,7 +1237,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 22,
         "ROWS": 1
       },
       {},
@@ -1464,7 +1464,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 15,
         "ROWS": 1
       },
       {
@@ -1688,7 +1688,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 15,
         "ROWS": 1
       },
       {
@@ -2292,7 +2292,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 24,
         "ROWS": 1
       },
       {
@@ -2419,7 +2419,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 24,
         "ROWS": 1
       },
       {
@@ -2757,7 +2757,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 15,
         "ROWS": 1
       },
       {
@@ -2981,7 +2981,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 18,
         "ROWS": 1
       },
       {
@@ -3763,7 +3763,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 20,
         "ROWS": 1
       },
       {
@@ -3890,7 +3890,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 20,
         "ROWS": 1
       },
       {},
@@ -4116,7 +4116,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 15,
         "ROWS": 1
       },
       {
@@ -4211,7 +4211,7 @@
             "KEY_IS_CHANGE_BG_COLOR": true,
             "KEY_IS_CHANGE_IS_TRANSPARENT": true,
             "KEY_IS_CHANGE_ALIGN_VERT": false,
-            "KEY_TITLE": "TRAN LVL\nFLGT CTRL",
+            "KEY_TITLE": "LEVEL\nFLIGHT",
             "KEY_TEXT_COLOR": -1117450,
             "KEY_START_COLOR": -14736341,
             "KEY_END_COLOR": -14736341,
@@ -4285,7 +4285,7 @@
             "KEY_IS_CHANGE_BG_COLOR": true,
             "KEY_IS_CHANGE_IS_TRANSPARENT": true,
             "KEY_IS_CHANGE_ALIGN_VERT": false,
-            "KEY_TITLE": "TRAN LVL\nFLGT CTRL",
+            "KEY_TITLE": "LEVEL\nFLIGHT",
             "KEY_TEXT_COLOR": -1117450,
             "KEY_START_COLOR": -14736341,
             "KEY_END_COLOR": -14736341,
@@ -4340,7 +4340,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -4749,7 +4749,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 22,
         "ROWS": 1
       },
       {
@@ -4862,7 +4862,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 24,
         "ROWS": 1
       },
       {},
@@ -4990,7 +4990,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -5081,7 +5081,7 @@
         "inS": "",
         "kMR": 0,
         "kMT": 0,
-        "T": "FUEL \nCONS R\n#",
+        "T": "FUEL\nCONS R\n#",
         "kKnMR": "360",
         "kKnS": "18.0",
         "kSCAC": -14145496,
@@ -5117,7 +5117,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -5326,7 +5326,7 @@
             "KEY_IS_CHANGE_BG_COLOR": true,
             "KEY_IS_CHANGE_IS_TRANSPARENT": true,
             "KEY_IS_CHANGE_ALIGN_VERT": false,
-            "KEY_TITLE": "A/P\nOVERRIDE",
+            "KEY_TITLE": "A/P\nOVRD",
             "KEY_TEXT_COLOR": -1117450,
             "KEY_START_COLOR": -14736341,
             "KEY_END_COLOR": -14736341,
@@ -5400,7 +5400,7 @@
             "KEY_IS_CHANGE_BG_COLOR": true,
             "KEY_IS_CHANGE_IS_TRANSPARENT": true,
             "KEY_IS_CHANGE_ALIGN_VERT": false,
-            "KEY_TITLE": "A/P\nOVERRIDE",
+            "KEY_TITLE": "A/P\nOVRD",
             "KEY_TEXT_COLOR": -1117450,
             "KEY_START_COLOR": -14736341,
             "KEY_END_COLOR": -14736341,
@@ -5679,7 +5679,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 23,
         "ROWS": 1
       },
       {
@@ -6088,7 +6088,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 19,
         "ROWS": 1
       },
       {
@@ -6201,7 +6201,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 20,
         "ROWS": 1
       },
       {},
@@ -6279,7 +6279,7 @@
         "inS": "",
         "kMR": 0,
         "kMT": 0,
-        "T": "START L",
+        "T": "LEFT\nENGINE\nSTART",
         "kKnMR": "360",
         "kKnS": "18.0",
         "kSCAC": -14145496,
@@ -6315,7 +6315,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -6392,7 +6392,7 @@
         "inS": "",
         "kMR": 0,
         "kMT": 0,
-        "T": "START R",
+        "T": "RIGHT\nENGINE\nSTART",
         "kKnMR": "360",
         "kKnS": "18.0",
         "kSCAC": -14145496,
@@ -6428,7 +6428,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -6693,7 +6693,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 19,
         "ROWS": 1
       },
       {
@@ -7086,7 +7086,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 23,
         "ROWS": 1
       },
       {
@@ -7183,7 +7183,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 23,
         "ROWS": 1
       },
       {},
@@ -7261,7 +7261,7 @@
         "inS": "",
         "kMR": 0,
         "kMT": 0,
-        "T": "STOP L",
+        "T": "LEFT\nENGINE\nSTOP",
         "kKnMR": "360",
         "kKnS": "18.0",
         "kSCAC": -14145496,
@@ -7297,7 +7297,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -7374,7 +7374,7 @@
         "inS": "",
         "kMR": 0,
         "kMT": 0,
-        "T": "STOP R",
+        "T": "RIGHT\nENGINE\nSTOP",
         "kKnMR": "360",
         "kKnS": "18.0",
         "kSCAC": -14145496,
@@ -7410,7 +7410,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 21,
         "ROWS": 1
       },
       {
@@ -7820,7 +7820,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 19,
         "ROWS": 1
       },
       {
@@ -8149,7 +8149,7 @@
           "fe": ""
         },
         "kSD": 0,
-        "TS": 26,
+        "TS": 23,
         "ROWS": 1
       },
       {

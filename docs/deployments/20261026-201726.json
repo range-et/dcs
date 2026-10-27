@@ -1,0 +1,37 @@
+[
+  {
+    "File": "(main).tml",
+    "BeforeSHA256": "BB85D23F05CD386FF95D475E95E45B68CBEBD2D2566A3D38DE16C60DEF004785",
+    "AfterSHA256": "2D51B3210444FF208508DF64892607909EA5C86E3BD47E2B077A1A4E9E018501",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261026-201726\\(main).tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\(main).tml"
+  },
+  {
+    "File": "DCS\\FC3 Main Panel.tml",
+    "BeforeSHA256": "1D6831AA12136ED3F7BC5CCB46C4E2889BA4F67CB10F2FEED6E8E9E224E3490F",
+    "AfterSHA256": "796DAE1E46568E038C0A751AD6EC6FD2B224428DC19714396D74CF6B5A0FC5E1",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261026-201726\\DCS\\FC3 Main Panel.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\FC3 Main Panel.tml"
+  },
+  {
+    "File": "DCS\\FC3 Navigation & Sensor Panel.tml",
+    "BeforeSHA256": "C30A7678B63EBE2C3243438AD1341152A3BBA36C9F49E93C0E6BACD1F2207275",
+    "AfterSHA256": "BD84C0A1912D40B328F97067C9F5F4C43693A4E0E90325E871BEF7E34E653DBC",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261026-201726\\DCS\\FC3 Navigation & Sensor Panel.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\FC3 Navigation & Sensor Panel.tml"
+  },
+  {
+    "File": "DCS\\F14.tml",
+    "BeforeSHA256": "E0DCF907B0D7A859196938023511657CF1CB0B371CDAC8996217A05158AEEF8E",
+    "AfterSHA256": "D1B41571FBB19EE07D5040B10278CBA33EE25BF67565060F8BEF2D3B82383AA4",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261026-201726\\DCS\\F14.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\F14.tml"
+  },
+  {
+    "File": "DCS\\P-51D.tml",
+    "BeforeSHA256": "BDA6F82F63080E4EAE225ACD63933E4B1A9E741550590241C5C69F8C0C86F906",
+    "AfterSHA256": "E0F86BD5EC7C25B812408404534F7DD13654004A38DE6D6130A24104C478FBA7",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261026-201726\\DCS\\P-51D.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\P-51D.tml"
+  }
+]

@@ -13,4 +13,6 @@ Deployed files: F-14.lua, AircraftList.lua, aircraftModules.cfg, entry.tp, and t
 
 Rollback: close the mission and Touch Portal, restore the four files above and affected page files from baseline/, then restart. Do not restore an older state machine.
 
-Validation is pending live cockpit testing.
+Live validation on 2026-10-26: a passive TCP capture identifies F-14BU and contains aircraft records. The user confirmed that the iPad shows ONLINE, tapping PARKING BRAKE moves the cockpit handle, and the button label stays visible. This verifies a basic pilot-control round trip; it does not verify every F-14 control or the upgraded radio/HUD exports.
+
+The F-14 export log also reports negative AOA, fuel-digit and mirror values outside the older module's declared ranges while cold. Those individual readings can be rejected. They are a separate compatibility limitation and were not addressed by changing the user's state machine or export rate.

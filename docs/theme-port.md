@@ -11,3 +11,9 @@ F-14 changes include replacing obsolete mgdc_f-14b references with the installed
 P-51D is a new draft with explicit gear/flaps positions, battery/generator/boost controls, ignition BOTH, mixture RUN, automatic cooling, radio channels, and camera navigation. Radiator AUTO is enum 2, verified against installed cockpit clickabledata.lua; zero is not AUTO. Radio channel and brake-handle presses include release events. Gear lamps describe lamp state, not an inferred mechanical lock when unpowered. Do not label it flight-verified until cockpit tests pass.
 
 No export-rate or synchronization change belongs to the theme port. The baseline state-machine hash must stay unchanged.
+
+Readability refinement: replace the split THROTTLE LEFT/RIGHT labels with explicit LEFT/RIGHT, THROTTLE, IDLE/CUT on separate lines. Fit the largest normal or event-driven label to each button, and wrap at word boundaries. Apply the plain gear/WOW feedback to both FC3 pages. The launcher fills its two rows with smaller headings. These refinements require a clean Touch Portal restart and native preview inspection after deployment.
+
+tools/deploy-pages.ps1 previews its exact file list by default. With -Apply it requires Touch Portal to be closed, backs up each previous page under ignored local_archives/page-deployments, copies the five generated pages, verifies hashes, and records the result under docs/deployments.
+
+Final readability build: widened all four F-14 throttle controls, moving the SPEED and ALT readouts into unused cells. Native preview confirms LEFT/RIGHT THROTTLE IDLE/CUT are complete and readable. Launcher, both FC3 pages and Mustang were also inspected in Touch Portal. Six legacy duplicate sensor-page controls hidden underneath merged readouts were removed; visible copies remain. A grid-span audit reports no overlapping/out-of-bounds controls on any aircraft page, and the plugin-reference audit reports zero missing IDs.
