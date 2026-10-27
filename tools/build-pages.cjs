@@ -145,7 +145,6 @@ const f1=clone(originals['DCS/FC3 Main Panel.tml'].BUTTONS[1][11].A[0]);const f2
 button(6,4,'COCKPIT\nF1',f1);button(7,4,'EXTERNAL\nF2',f2);
 button(0,5,'HOME',{KEY_TYPE:'GOTO_PAGE_ACTION',kIEn:true,KEY_PAGE_NAME:'\\(main).tml'},2);
 button(2,5,'FLIGHT\nCOOLING / GEAR',null,4).TC=c.muted;
-button(6,5,'F-14',{KEY_TYPE:'GOTO_PAGE_ACTION',kIEn:true,KEY_PAGE_NAME:'\\DCS\\F14.tml'},2);
 // Theme the new controls without replacing their explicit numeric-state feedback.
 const p51Feedback=new Map(p51.BUTTONS.flat().filter(b=>b.id).map(b=>[b.id,clone(b.E)]));
 pages['DCS/P-51D.tml']=theme(p51);
@@ -159,6 +158,7 @@ for(let i=0;i<3;i++)main.BUTTONS[0][i]=launchers[i];
 const header=clone(launchers[2]);header.id='monad_launcher_title';header.T='MONAD\nFLIGHTDECK';header.A=[];header.TC=c.muted;main.BUTTONS[0][3]=header;
 for(let i=0;i<3;i++)main.BUTTONS[1][i]=launchers[i+3];main.BUTTONS[1][3]=nav;
 for(const b of main.BUTTONS.flat())if(b.id)b.TS=14;
+require('./build-f14-systems.cjs')({pages,entry:read('config/touchportal/plugins/Munt.G_DCS-COINS/entry.tp'),clone,theme,visual,c,gate});
 // Remove image-only decoration which has no state or action; keep other controls intact.
 for(const [file,page] of Object.entries(pages)){
  for(const b of page.BUTTONS.flat())for(const group of ['A','E','C'])for(const a of b[group]||[])if(a.KEY_TYPE==='TIMER_ACTION'&&a.TT===1){

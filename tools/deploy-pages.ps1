@@ -2,7 +2,7 @@ param([switch]$Apply)
 $ErrorActionPreference='Stop'
 $repoRoot=Split-Path $PSScriptRoot -Parent
 $pageRoot=Join-Path $env:APPDATA 'TouchPortal\pages'
-$files=@('(main).tml','DCS\FC3 Main Panel.tml','DCS\FC3 Navigation & Sensor Panel.tml','DCS\F14.tml','DCS\P-51D.tml')
+$files=@('(main).tml','DCS\FC3 Main Panel.tml','DCS\FC3 Navigation & Sensor Panel.tml','DCS\F14.tml','DCS\F14 Radar & Navigation.tml','DCS\P-51D.tml')
 if (-not $Apply) {
  foreach($file in $files) { [pscustomobject]@{Source=(Join-Path $repoRoot "pages\$file");Destination=(Join-Path $pageRoot $file)} }
  return

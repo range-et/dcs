@@ -61,6 +61,8 @@ The saved DCS miscellaneous.synchronize_controls option is currently false. tool
 
 ## Refined profile, awaiting reconnect test
 
+USB reconnect verification: the actual 19-byte HID report contains all seven axes and 26 buttons. Physical LS forward / RS back produced RZ=2048 / RY=0, confirming the existing slider assignments. SG toward the antenna produced neutral button 26. With SB, SE and SG in MIDDLE, the report contained flap slider=819, SE buttons 18+19, and SG button 25. Those checks passed; refined in-game behavior remains pending.
+
 The user confirmed the four flight axes and responsive ONLINE iPad operation in flight, followed by successful shutdown/OFFLINE. After DCS exited, synchronize_controls was enabled; docs/deployments/input-sync-20261026-214904.json records the exact previous options.lua backup and hashes. The earlier paragraph describes the pre-change state.
 
 The model loaded from the radio after the flight is preserved under backups/tx16s/20261026-refinement, including its current trims and original 17 mixer entries. tools/refine-radio.py extends that snapshot; all four inputs, flight-mode trims and the 17 existing mixers are asserted unchanged. The first 17 USB buttons and the existing six axes retain their assignments. SG and auxiliary virtual channels extend the descriptor to seven axes and 26 buttons. The [EdgeTX 2.12 USB implementation](https://github.com/EdgeTX/edgetx/blob/2.12/radio/src/usb_joystick.cpp) documents the button threshold/quantization used here.
