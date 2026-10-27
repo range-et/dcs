@@ -1,5 +1,6 @@
 # Baseline files must retain their exact backed-up bytes on checkout.
 baseline/** -text
+backups/** -text
 *.png binary
 *.jpg binary
 *.jpeg binary

@@ -19,3 +19,4 @@ work/
 **/cache/
 .DS_Store
 Thumbs.db
+._*
