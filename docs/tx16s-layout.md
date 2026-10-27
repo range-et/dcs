@@ -50,3 +50,9 @@ All profiles retain the existing F-15C/P-51D axis blocks verbatim. New F-14B and
 | SH | Weapon release | Weapon release | Same aircraft trigger, weapon selected by SD |
 
 These are initial bindings, not a claim that every requested function is finished. F-15C attitude hold is not heading-plus-altitude hold. The F-14 uses one trigger for guns/missiles: both SF and SH are trigger inputs, so leave SF released when using SH for missiles. F-14 radar belongs primarily to the RIO/Jester; SC currently selects pilot display modes. Full F-14 SE sequencing, three-position flap targets, F-15 weapon-selection refinements and LS/RS roles remain to be completed and flight-tested. No combined SF+SH emergency action was assigned.
+
+## Live checks after deployment
+
+With the P-51D Take Off Batumi sample running, the user cycled SA MIDDLE -> UP and confirmed the brake held, including during a high-throttle check. The first attempt had rolled off the runway and crashed before that held-switch behavior was verified. The restarted sample exported roughly 1,640 RPM and 1,070 PSI of hydraulic pressure, then continued running during the user's manual flight (188 knots / 4,950 feet observed, later about 2,960 RPM / 1,040 PSI). Do not count that as verification of every switch or flap travel.
+
+The saved DCS miscellaneous.synchronize_controls option is currently false. tools/set-input-sync.ps1 previews a change to true and requires DCS to be closed before applying it. It backs up the exact previous options.lua and records hashes. This change is prepared, not applied. Its purpose is to pick up the physical HOTAS positions at mission start; the ground/air-start switch positions must be set appropriately before loading. The [official DCS user manual](https://www.digitalcombatsimulator.com/upload/iblock/ed6/87v22jwd1xh51i3rgki944xsf503istq/DCS_User_Manual_EN_2020.pdf) documents the synchronization option. Its behavior still needs a fresh-load check on this installation.
