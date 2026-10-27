@@ -1,0 +1,574 @@
+[
+  {
+    "module": "F-15C",
+    "name": "Weapon Fire",
+    "buttons": [
+      7
+    ],
+    "hash": "d84pnilu85cdnilvdnilvpnilvunil",
+    "down": 84,
+    "up": 85
+  },
+  {
+    "module": "F-15C",
+    "name": "Weapon Release",
+    "buttons": [
+      8
+    ],
+    "hash": "d350pnilu351cdnilvdnilvpnilvunil",
+    "down": 350,
+    "up": 351
+  },
+  {
+    "module": "F-15C",
+    "name": "Wheel Brake On",
+    "buttons": [
+      3
+    ],
+    "hash": "d74pnilu75cdnilvdnilvpnilvunil",
+    "down": 74,
+    "up": 75
+  },
+  {
+    "module": "F-15C",
+    "name": "Landing Gear Down",
+    "buttons": [
+      2
+    ],
+    "hash": "d431pnilunilcdnilvdnilvpnilvunil",
+    "down": 431
+  },
+  {
+    "module": "F-15C",
+    "name": "Landing Gear Up",
+    "buttons": [
+      1
+    ],
+    "hash": "d430pnilunilcdnilvdnilvpnilvunil",
+    "down": 430
+  },
+  {
+    "module": "F-15C",
+    "name": "Flaps Up",
+    "buttons": [
+      6
+    ],
+    "hash": "d146pnilunilcdnilvdnilvpnilvunil",
+    "down": 146
+  },
+  {
+    "module": "F-15C",
+    "name": "Flaps Landing Position",
+    "buttons": [
+      4
+    ],
+    "hash": "d145pnilunilcdnilvdnilvpnilvunil",
+    "down": 145
+  },
+  {
+    "module": "F-15C",
+    "name": "(2) Beyond Visual Range Mode",
+    "buttons": [
+      11
+    ],
+    "hash": "d106pnilunilcdnilvdnilvpnilvunil",
+    "down": 106
+  },
+  {
+    "module": "F-15C",
+    "name": "(3) Close Air Combat Vertical Scan Mode",
+    "buttons": [
+      10
+    ],
+    "hash": "d107pnilunilcdnilvdnilvpnilvunil",
+    "down": 107
+  },
+  {
+    "module": "F-15C",
+    "name": "(4) Close Air Combat Bore Mode",
+    "buttons": [
+      9
+    ],
+    "hash": "d108pnilunilcdnilvdnilvpnilvunil",
+    "down": 108
+  },
+  {
+    "module": "F-15C",
+    "name": "Cannon",
+    "buttons": [
+      14
+    ],
+    "hash": "d113pnilunilcdnilvdnilvpnilvunil",
+    "down": 113
+  },
+  {
+    "module": "F-15C",
+    "name": "Change Weapon",
+    "buttons": [
+      13
+    ],
+    "hash": "d101pnilunilcdnilvdnilvpnilvunil",
+    "down": 101
+  },
+  {
+    "module": "F-15C",
+    "name": "Autopilot Disengage",
+    "buttons": [
+      17
+    ],
+    "hash": "d408pnilunilcdnilvdnilvpnilvunil",
+    "down": 408
+  },
+  {
+    "module": "F-15C",
+    "name": "Autopilot - Altitude Hold",
+    "buttons": [
+      16
+    ],
+    "hash": "d389pnilunilcdnilvdnilvpnilvunil",
+    "down": 389
+  },
+  {
+    "module": "F-15C",
+    "name": "Autopilot - Attitude Hold",
+    "buttons": [
+      15
+    ],
+    "hash": "d62pnilunilcdnilvdnilvpnilvunil",
+    "down": 62
+  },
+  {
+    "module": "P-51D",
+    "name": "Gun fire",
+    "buttons": [
+      7
+    ],
+    "hash": "d84pnilu85cdnilvdnilvpnilvunil",
+    "down": 84,
+    "up": 85
+  },
+  {
+    "module": "P-51D",
+    "name": "Weapon release",
+    "buttons": [
+      8
+    ],
+    "hash": "d350pnilu351cdnilvdnilvpnilvunil",
+    "down": 350,
+    "up": 351
+  },
+  {
+    "module": "P-51D",
+    "name": "Wheel brake Both",
+    "buttons": [
+      3
+    ],
+    "hash": "d74pnilu75cdnilvdnilvpnilvunil",
+    "down": 74,
+    "up": 75
+  },
+  {
+    "module": "P-51D",
+    "name": "Landing Gear Down",
+    "buttons": [
+      2
+    ],
+    "hash": "d3004pnilunilcd12vd0.1vpnilvunil",
+    "down": 3004,
+    "cockpit_device_id": 12,
+    "value_down": 0.1
+  },
+  {
+    "module": "P-51D",
+    "name": "Landing Gear Up",
+    "buttons": [
+      1
+    ],
+    "hash": "d3004pnilunilcd12vd0.2vpnilvunil",
+    "down": 3004,
+    "cockpit_device_id": 12,
+    "value_down": 0.2
+  },
+  {
+    "module": "P-51D",
+    "name": "Flaps Up",
+    "buttons": [
+      6
+    ],
+    "hash": "d3002pnilunilcd12vd1vpnilvunil",
+    "down": 3002,
+    "cockpit_device_id": 12,
+    "value_down": 1
+  },
+  {
+    "module": "P-51D",
+    "name": "Flaps Down",
+    "buttons": [
+      4
+    ],
+    "hash": "d3002pnilunilcd12vd0vpnilvunil",
+    "down": 3002,
+    "cockpit_device_id": 12,
+    "value_down": 0
+  },
+  {
+    "module": "P-51D",
+    "name": "Gunsight mode FIXED",
+    "buttons": [
+      11
+    ],
+    "hash": "d3003pnilunilcd1vd0vpnilvunil",
+    "down": 3003,
+    "cockpit_device_id": 1,
+    "value_down": 0
+  },
+  {
+    "module": "P-51D",
+    "name": "Gunsight mode FIXED GYRO",
+    "buttons": [
+      10
+    ],
+    "hash": "d3003pnilunilcd1vd0.1vpnilvunil",
+    "down": 3003,
+    "cockpit_device_id": 1,
+    "value_down": 0.1
+  },
+  {
+    "module": "P-51D",
+    "name": "Gunsight mode GYRO",
+    "buttons": [
+      9
+    ],
+    "hash": "d3003pnilunilcd1vd0.2vpnilvunil",
+    "down": 3003,
+    "cockpit_device_id": 1,
+    "value_down": 0.2
+  },
+  {
+    "module": "P-51D",
+    "name": "Gun safety switch OFF",
+    "buttons": [
+      14
+    ],
+    "hash": "d3007pnilunilcd13vd0vpnilvunil",
+    "down": 3007,
+    "cockpit_device_id": 13,
+    "value_down": 0
+  },
+  {
+    "module": "P-51D",
+    "name": "Gun safety switch GUN CAMERA SIGHT",
+    "buttons": [
+      13
+    ],
+    "hash": "d3007pnilunilcd13vd1vpnilvunil",
+    "down": 3007,
+    "cockpit_device_id": 13,
+    "value_down": 1
+  },
+  {
+    "module": "P-51D",
+    "name": "Gun safety switch CAMERA SIGHT",
+    "buttons": [
+      12
+    ],
+    "hash": "d3007pnilunilcd13vd-1vpnilvunil",
+    "down": 3007,
+    "cockpit_device_id": 13,
+    "value_down": -1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Trigger",
+    "buttons": [
+      7,
+      8
+    ],
+    "hash": "d3087pnilu3087cd57vd1vpnilvu0",
+    "down": 3087,
+    "cockpit_device_id": 57,
+    "value_down": 1,
+    "up": 3087,
+    "value_up": 0
+  },
+  {
+    "module": "F-14BU",
+    "name": "Wheel Brake both",
+    "buttons": [
+      3
+    ],
+    "hash": "dnilp2101u2101cdnilvdnilvp1vu-1",
+    "pressed": 2101,
+    "up": 2101,
+    "value_pressed": 1,
+    "value_up": -1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Gears Down",
+    "buttons": [
+      2
+    ],
+    "hash": "d3016pnilunilcd18vd1vpnilvunil",
+    "down": 3016,
+    "cockpit_device_id": 18,
+    "value_down": 1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Gears Up",
+    "buttons": [
+      1
+    ],
+    "hash": "d3016pnilunilcd18vd0vpnilvunil",
+    "down": 3016,
+    "cockpit_device_id": 18,
+    "value_down": 0
+  },
+  {
+    "module": "F-14BU",
+    "name": "Flaps Up",
+    "buttons": [
+      6
+    ],
+    "hash": "d3998pnilunilcd19vd0.8vpnilvunil",
+    "down": 3998,
+    "cockpit_device_id": 19,
+    "value_down": 0.8
+  },
+  {
+    "module": "F-14BU",
+    "name": "Flaps Down",
+    "buttons": [
+      4
+    ],
+    "hash": "d3998pnilunilcd19vd0.5vpnilvunil",
+    "down": 3998,
+    "cockpit_device_id": 19,
+    "value_down": 0.5
+  },
+  {
+    "module": "F-14BU",
+    "name": "Display mode cruise",
+    "buttons": [
+      11
+    ],
+    "hash": "d3217pnilunilcd40vd1vpnilvunil",
+    "down": 3217,
+    "cockpit_device_id": 40,
+    "value_down": 1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Display mode air to air",
+    "buttons": [
+      10
+    ],
+    "hash": "d3218pnilunilcd40vd1vpnilvunil",
+    "down": 3218,
+    "cockpit_device_id": 40,
+    "value_down": 1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Display mode air to ground",
+    "buttons": [
+      9
+    ],
+    "hash": "d3219pnilunilcd40vd1vpnilvunil",
+    "down": 3219,
+    "cockpit_device_id": 40,
+    "value_down": 1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Weapon Selector Gun",
+    "buttons": [
+      14
+    ],
+    "hash": "d3079pnilunilcd55vd1vpnilvunil",
+    "down": 3079,
+    "cockpit_device_id": 55,
+    "value_down": 1
+  },
+  {
+    "module": "F-14BU",
+    "name": "Weapon Selector Sparrow or Phoenix Missiles",
+    "buttons": [
+      13
+    ],
+    "hash": "d3079pnilunilcd55vd0.5vpnilvunil",
+    "down": 3079,
+    "cockpit_device_id": 55,
+    "value_down": 0.5
+  },
+  {
+    "module": "F-14BU",
+    "name": "Weapon Selector Sidewinder Missiles",
+    "buttons": [
+      12
+    ],
+    "hash": "d3079pnilunilcd55vd-0.5vpnilvunil",
+    "down": 3079,
+    "cockpit_device_id": 55,
+    "value_down": -0.5
+  },
+  {
+    "module": "F-14BU",
+    "name": "Autopilot Off",
+    "buttons": [
+      17
+    ],
+    "hash": "d3040pnilunilcd22vd-1vpnilvunil",
+    "down": 3040,
+    "cockpit_device_id": 22,
+    "value_down": -1
+  },
+  {
+    "module": "F-14B",
+    "name": "Trigger",
+    "buttons": [
+      7,
+      8
+    ],
+    "hash": "d3087pnilu3087cd57vd1vpnilvu0",
+    "down": 3087,
+    "cockpit_device_id": 57,
+    "value_down": 1,
+    "up": 3087,
+    "value_up": 0
+  },
+  {
+    "module": "F-14B",
+    "name": "Wheel Brake both",
+    "buttons": [
+      3
+    ],
+    "hash": "dnilp2101u2101cdnilvdnilvp1vu-1",
+    "pressed": 2101,
+    "up": 2101,
+    "value_pressed": 1,
+    "value_up": -1
+  },
+  {
+    "module": "F-14B",
+    "name": "Gears Down",
+    "buttons": [
+      2
+    ],
+    "hash": "d3016pnilunilcd18vd1vpnilvunil",
+    "down": 3016,
+    "cockpit_device_id": 18,
+    "value_down": 1
+  },
+  {
+    "module": "F-14B",
+    "name": "Gears Up",
+    "buttons": [
+      1
+    ],
+    "hash": "d3016pnilunilcd18vd0vpnilvunil",
+    "down": 3016,
+    "cockpit_device_id": 18,
+    "value_down": 0
+  },
+  {
+    "module": "F-14B",
+    "name": "Flaps Up",
+    "buttons": [
+      6
+    ],
+    "hash": "d3998pnilunilcd19vd0.8vpnilvunil",
+    "down": 3998,
+    "cockpit_device_id": 19,
+    "value_down": 0.8
+  },
+  {
+    "module": "F-14B",
+    "name": "Flaps Down",
+    "buttons": [
+      4
+    ],
+    "hash": "d3998pnilunilcd19vd0.5vpnilvunil",
+    "down": 3998,
+    "cockpit_device_id": 19,
+    "value_down": 0.5
+  },
+  {
+    "module": "F-14B",
+    "name": "Display mode cruise",
+    "buttons": [
+      11
+    ],
+    "hash": "d3217pnilunilcd40vd1vpnilvunil",
+    "down": 3217,
+    "cockpit_device_id": 40,
+    "value_down": 1
+  },
+  {
+    "module": "F-14B",
+    "name": "Display mode air to air",
+    "buttons": [
+      10
+    ],
+    "hash": "d3218pnilunilcd40vd1vpnilvunil",
+    "down": 3218,
+    "cockpit_device_id": 40,
+    "value_down": 1
+  },
+  {
+    "module": "F-14B",
+    "name": "Display mode air to ground",
+    "buttons": [
+      9
+    ],
+    "hash": "d3219pnilunilcd40vd1vpnilvunil",
+    "down": 3219,
+    "cockpit_device_id": 40,
+    "value_down": 1
+  },
+  {
+    "module": "F-14B",
+    "name": "Weapon Selector Gun",
+    "buttons": [
+      14
+    ],
+    "hash": "d3079pnilunilcd55vd1vpnilvunil",
+    "down": 3079,
+    "cockpit_device_id": 55,
+    "value_down": 1
+  },
+  {
+    "module": "F-14B",
+    "name": "Weapon Selector Sparrow or Phoenix Missiles",
+    "buttons": [
+      13
+    ],
+    "hash": "d3079pnilunilcd55vd0.5vpnilvunil",
+    "down": 3079,
+    "cockpit_device_id": 55,
+    "value_down": 0.5
+  },
+  {
+    "module": "F-14B",
+    "name": "Weapon Selector Sidewinder Missiles",
+    "buttons": [
+      12
+    ],
+    "hash": "d3079pnilunilcd55vd-0.5vpnilvunil",
+    "down": 3079,
+    "cockpit_device_id": 55,
+    "value_down": -0.5
+  },
+  {
+    "module": "F-14B",
+    "name": "Autopilot Off",
+    "buttons": [
+      17
+    ],
+    "hash": "d3040pnilunilcd22vd-1vpnilvunil",
+    "down": 3040,
+    "cockpit_device_id": 22,
+    "value_down": -1
+  }
+]

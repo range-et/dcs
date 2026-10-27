@@ -1,0 +1,30 @@
+﻿[
+    {
+        "File":  "F-14B\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  null,
+        "AfterSHA256":  "86484CEF2DF69B7D3690B68FDA868366477E3A3B0EAC11355AB16A7A3BE388EE",
+        "Backup":  null,
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\F-14B\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    },
+    {
+        "File":  "F-14BU\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  null,
+        "AfterSHA256":  "86484CEF2DF69B7D3690B68FDA868366477E3A3B0EAC11355AB16A7A3BE388EE",
+        "Backup":  null,
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\F-14BU\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    },
+    {
+        "File":  "F-15C\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  "F5507C3E16F5CFB991AA01F9FD2D9F27F430C0BB75ECB368288511DA7FAF2D2C",
+        "AfterSHA256":  "7546990792CD557FA08482094E5DC1E4FB58BAC4F26AE0A4826F6F132D0462DA",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\input-deployments\\20261026-212443\\F-15C\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\F-15C\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    },
+    {
+        "File":  "P-51D\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "BeforeSHA256":  "F799253057F39A617C4F5853D740BFE566964F73BF0D96BB27E7A792990753A2",
+        "AfterSHA256":  "A8FB42A7CCCC5A36FC32BF25562C223364ACD4CF2A26555D08AEF6C41816CDFE",
+        "Backup":  "C:\\Users\\range\\Desktop\\dcs\\local_archives\\input-deployments\\20261026-212443\\P-51D\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua",
+        "Target":  "C:\\Users\\range\\Saved Games\\DCS\\Config\\Input\\P-51D\\joystick\\Radiomaster TX16S Joystick {BB74DAE0-B917-11f1-8001-444553540000}.diff.lua"
+    }
+]
