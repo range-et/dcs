@@ -1,0 +1,8 @@
+{
+  "reference": "ipad-amber-before-y-calibration.png",
+  "screen": [3200, 2400],
+  "toolbarHeight": 128,
+  "buttonRows": [[178,511],[546,879],[914,1247],[1282,1615],[1650,1983],[2018,2351]],
+  "backgroundTransformY": {"scale": 2.5454661804895062, "offset": 109.68307592257929},
+  "note": "Measured mobile transform, not the desktop preview. Fresh mobile confirmation remains required."
+}

@@ -72,7 +72,7 @@ function theme(page){page.BG=c.bg;page.BGI='';page.GUid=-1;page.GUdata='';page.B
 const pages={};
 for(const [file,source] of Object.entries(originals))pages[file]=theme(clone(source));
 // Static labels for formerly image-only controls/readouts.
-const main=pages['(main).tml'];main.BUTTONS[0][0].T='STEAM';
+const main=pages['(main).tml']; // Immutable legacy template only; shared Home is owned elsewhere.
 const fc3=pages['DCS/FC3 Main Panel.tml'];
 fc3.BUTTONS[0][0].T='FC3\nFLIGHT';fc3.BUTTONS[0][0].TC=c.info;
 for(const [x,y,t] of [[3,5,'LEFT\nENGINE\nSTART'],[4,5,'RIGHT\nENGINE\nSTART'],[3,6,'LEFT\nENGINE\nSTOP'],[4,6,'RIGHT\nENGINE\nSTOP']])fc3.BUTTONS[y][x].T=t;
@@ -149,15 +149,8 @@ button(2,5,'FLIGHT\nCOOLING / GEAR',null,4).TC=c.muted;
 const p51Feedback=new Map(p51.BUTTONS.flat().filter(b=>b.id).map(b=>[b.id,clone(b.E)]));
 pages['DCS/P-51D.tml']=theme(p51);
 for(const b of p51.BUTTONS.flat())if(b.id)b.E=p51Feedback.get(b.id);
-// Add Mustang navigation to an empty launcher slot.
-const nav=clone(main.BUTTONS[0][5]);nav.id='monad_home_p51';nav.T='P-51D';nav.A=[{KEY_TYPE:'GOTO_PAGE_ACTION',kIEn:true,KEY_PAGE_NAME:'\\DCS\\P-51D.tml'}];main.BUTTONS[1][0]=nav;
-const launchers=main.BUTTONS[0].slice(0,6);main.KEY_COLUMNS=4;main.KEY_ROWS=2;
-main.MAX=true;
-main.BUTTONS=Array.from({length:15},()=>Array.from({length:15},()=>({})));
-for(let i=0;i<3;i++)main.BUTTONS[0][i]=launchers[i];
-const header=clone(launchers[2]);header.id='monad_launcher_title';header.T='MONAD\nFLIGHTDECK';header.A=[];header.TC=c.muted;main.BUTTONS[0][3]=header;
-for(let i=0;i<3;i++)main.BUTTONS[1][i]=launchers[i+3];main.BUTTONS[1][3]=nav;
-for(const b of main.BUTTONS.flat())if(b.id)b.TS=14;
+// Shared Home/OBS are maintained outside this aircraft repository.
+delete pages['(main).tml'];
 require('./build-f14-systems.cjs')({pages,entry:read('config/touchportal/plugins/Munt.G_DCS-COINS/entry.tp'),clone,theme,visual,c,gate});
 // Remove image-only decoration which has no state or action; keep other controls intact.
 for(const [file,page] of Object.entries(pages)){
@@ -168,6 +161,10 @@ for(const [file,page] of Object.entries(pages)){
  }
  for(const b of page.BUTTONS.flat())if(b.id)fitLabel(b);
  for(const row of page.BUTTONS)for(let i=0;i<row.length;i++)if(row[i].id&&!row[i].T&&!row[i].A?.length&&!row[i].E?.length)row[i]={};
+}
+const iconManifest=[];require('./apply-dense-hierarchy.cjs')(pages,iconManifest);require('./apply-page-icons.cjs')(pages,iconManifest);
+fs.mkdirSync(path.join(root,'assets/icons'),{recursive:true});fs.writeFileSync(path.join(root,'assets/icons/manifest.json'),JSON.stringify(iconManifest,null,2)+'\n');
+for(const [file,page] of Object.entries(pages)){
  const out=path.join(root,'pages',file);fs.mkdirSync(path.dirname(out),{recursive:true});fs.writeFileSync(out,JSON.stringify(page,null,2)+'\n');
  console.log(file,page.BUTTONS.flat().filter(b=>b.id).length,'controls');
 }

@@ -1,0 +1,401 @@
+[
+  {
+    "File": "(main).tml",
+    "BeforeSHA256": "0BBCE340EDC144DA48AC68631106F30C4A0D44C8F531D69241883C5348A60B0A",
+    "AfterSHA256": "C1DDCAF9A67AEAD01D0E8C174C58A997D206142737A1140D51FE0916E8467082",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\(main).tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\(main).tml"
+  },
+  {
+    "File": "DCS\\FC3 Main Panel.tml",
+    "BeforeSHA256": "70EEE027F1A2AE29A664849F09801831C1523819480982972635402D782CD0C8",
+    "AfterSHA256": "19036F5F16B8BAFFE88B93CD3D4741BB882E9C6B2EA89D618360C29C253996DE",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\DCS\\FC3 Main Panel.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\FC3 Main Panel.tml"
+  },
+  {
+    "File": "DCS\\FC3 Navigation & Sensor Panel.tml",
+    "BeforeSHA256": "F11BFBFAB49FE735CA32FA7D9EC5DB3CA14720AD3018EB1AFAC4773B3BCBDF4B",
+    "AfterSHA256": "D82F37055780DCBBEBF22CC5349C64F54084B0CF341BC2FCA19CC2B8C944782D",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\DCS\\FC3 Navigation & Sensor Panel.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\FC3 Navigation & Sensor Panel.tml"
+  },
+  {
+    "File": "DCS\\F14.tml",
+    "BeforeSHA256": "98FC8A5770C87A5326CE875FEB475E8D8977B841CDE7CEEE8691D39CA33CF243",
+    "AfterSHA256": "0F77A869D88BD306D4CDCBFE80D73ACF40C591E33DE378FE862FA6694983A49E",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\DCS\\F14.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\F14.tml"
+  },
+  {
+    "File": "DCS\\F14 Radar & Navigation.tml",
+    "BeforeSHA256": "CD99CB74E87BDCE72F945FCCFD061A762F2ECECCBB682DE7C177C9CA63C96660",
+    "AfterSHA256": "1CA243C1C90E6373A252E3BCCC0BAF9C13A7D1D61A2D9E077D1838E9CD865ED3",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\DCS\\F14 Radar & Navigation.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\F14 Radar & Navigation.tml"
+  },
+  {
+    "File": "DCS\\P-51D.tml",
+    "BeforeSHA256": "142A9EC95FC2F2B1963A15A0B0789EF344D3443FFE771C561E5E49340B777ED7",
+    "AfterSHA256": "EDE52FC9053344DA789780FFF52409FE9FF8D8ED895A1F6AF047E9CC97DF3E99",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\DCS\\P-51D.tml",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\P-51D.tml"
+  },
+  {
+    "File": "icons\\monad_f14_group_frames.png",
+    "BeforeSHA256": null,
+    "AfterSHA256": "8F0508119789643749D103AC8C1D37B4488967F05F21F3FDB62599F581C2DFDA",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_f14_group_frames.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_f14_group_frames.png"
+  },
+  {
+    "File": "icons\\monad_md_view_in_ar_2x1_default.png",
+    "BeforeSHA256": "A16CE45A3468D542E7C2439123E3B1B2698B96B3AA9ED1AAAB4689C4AECE7D79",
+    "AfterSHA256": "BF4DE52AEB0DB30FC6471C27050289C374E52A8F9C4170ECB291FF5F59168519",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_view_in_ar_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_view_in_ar_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_flight_1x1_default.png",
+    "BeforeSHA256": "994466150F5CD968BA3DDB30CE9853715BCB0093BEED9A5C9492D44804408AD2",
+    "AfterSHA256": "AE24221CEEDFEDEDFBB0CA203CD005745133F353DC96B1D36936B419CA916D51",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_flight_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_flight_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_gps_fixed_1x1_default.png",
+    "BeforeSHA256": "30067D3A7F62572AEF2D8E149C78732BB232C64C7C7FB02EFF56ED8D16DA3644",
+    "AfterSHA256": "542D6957AD5BDC5A7017C7BEAA9B3DC44F961CE0282658B57079404DF9B956D7",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_gps_fixed_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_gps_fixed_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_view_in_ar_1x1_default.png",
+    "BeforeSHA256": "A16CE45A3468D542E7C2439123E3B1B2698B96B3AA9ED1AAAB4689C4AECE7D79",
+    "AfterSHA256": "BF4DE52AEB0DB30FC6471C27050289C374E52A8F9C4170ECB291FF5F59168519",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_view_in_ar_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_view_in_ar_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_visibility_1x1_default.png",
+    "BeforeSHA256": "D5B1D3FE28EFF28A7F61EDDC8020133783CE82850A1602854E0C95BF8BD925C9",
+    "AfterSHA256": "EC5228C49C959D0C4D7DB1C34D0115612114B0183600C3E464C6AD1C635EE5EE",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_visibility_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_visibility_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_videogame_asset_1x1_default.png",
+    "BeforeSHA256": "1A056D6B6E79A990499AE764A36B45EAF6C277A03642F2847EBDA0724E69A887",
+    "AfterSHA256": "04B1B84C6C67570767DE0470F472186464C60470EF70430219C50FC3EE13EA27",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_videogame_asset_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_videogame_asset_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_network_check_2x1_default.png",
+    "BeforeSHA256": "47810E22BEF0176C96D2B316B73950248E662DE37A6BF93FFA660B211C63F1D2",
+    "AfterSHA256": "8E8D19DB4F5E2A0590EDBB8D3700CD13AFF55F7969F049CBA624793D110D1BC5",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_network_check_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_network_check_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_speed_2x1_default.png",
+    "BeforeSHA256": "A31838AFD667D5DFB75FADDA7583AFD572CE3AE3E6328E9EFC450C41CC0ABAA2",
+    "AfterSHA256": "B84C4196CC998F8B177D087B7177932CF46187C4CF0EA8292EDC37E31ECD4717",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_speed_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_speed_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_swap_vert_2x1_default.png",
+    "BeforeSHA256": "4BD504B1DE6136998024CAB344E2A025910CE1468B1E6EB3364A3C9A05BC65D1",
+    "AfterSHA256": "07E599AC7D0F4E547BD8492E3FF56EFE6B57B331580F93995A4D3D60DB8692E9",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_swap_vert_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_swap_vert_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_swap_vert_1x1_default.png",
+    "BeforeSHA256": "4BD504B1DE6136998024CAB344E2A025910CE1468B1E6EB3364A3C9A05BC65D1",
+    "AfterSHA256": "07E599AC7D0F4E547BD8492E3FF56EFE6B57B331580F93995A4D3D60DB8692E9",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_swap_vert_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_swap_vert_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_tune_2x1_default.png",
+    "BeforeSHA256": "E22BE546DE667CCBB311A81C1D300EF083CA53076065BB77012495A3C8321F52",
+    "AfterSHA256": "59F533C7BF84042115EB0348EE495A08EEF9CA42A45FDFAAE4C587A73BCFBF27",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_tune_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_tune_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_timer_2x1_default.png",
+    "BeforeSHA256": "7A5FFF693069DD4E646687508D2A6E86BF167C2394C88DC8DAFFFD62690E5D0C",
+    "AfterSHA256": "67E1CECE13CABE80250E3366BFC310D071493166EA4206B942FD8DF8BA81A34D",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_timer_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_timer_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_radio_1x1_default.png",
+    "BeforeSHA256": "BAFDEACDFCEEEA30BCDBA44E6FEB2DED8B5B32F7616F7A9FB2D4DFCA063A9DF3",
+    "AfterSHA256": "277FA433CB62B3CC6242AD482CFB6B2CB028F40FCC6B7ADE00D0F78D685DCF49",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_radio_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_radio_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_vertical_align_bottom_2x1_default.png",
+    "BeforeSHA256": "02FB47F52B833121BFD3163925E84822F7A57CFF3669CE0C92782276DC53DC9F",
+    "AfterSHA256": "3F94F7DE2CCB88BA42A2B08037FC8BDCD3032FD8E8F33C4D70C8FCA8A594CFAF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_vertical_align_bottom_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_vertical_align_bottom_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_power_settings_new_2x1_default.png",
+    "BeforeSHA256": "1690C4C2448976D1EEBFF39A37F0EBBBB1241EC2D5093D417FAB4A6026042171",
+    "AfterSHA256": "336E23E7134A103D5B329E2E1E98A1E5CF132F323D5747F55C1ED6BA317E0CBF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_power_settings_new_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_power_settings_new_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_power_settings_new_1x1_default.png",
+    "BeforeSHA256": "1690C4C2448976D1EEBFF39A37F0EBBBB1241EC2D5093D417FAB4A6026042171",
+    "AfterSHA256": "336E23E7134A103D5B329E2E1E98A1E5CF132F323D5747F55C1ED6BA317E0CBF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_power_settings_new_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_power_settings_new_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_tune_1x1_default.png",
+    "BeforeSHA256": "E22BE546DE667CCBB311A81C1D300EF083CA53076065BB77012495A3C8321F52",
+    "AfterSHA256": "59F533C7BF84042115EB0348EE495A08EEF9CA42A45FDFAAE4C587A73BCFBF27",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_tune_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_tune_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_vertical_align_bottom_1x1_default.png",
+    "BeforeSHA256": "02FB47F52B833121BFD3163925E84822F7A57CFF3669CE0C92782276DC53DC9F",
+    "AfterSHA256": "3F94F7DE2CCB88BA42A2B08037FC8BDCD3032FD8E8F33C4D70C8FCA8A594CFAF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_vertical_align_bottom_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_vertical_align_bottom_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_thermostat_1x1_default.png",
+    "BeforeSHA256": "DD5332E52F0A49C7A37B79E929114907BA73C09E564A394F1E612FECC11FE8CB",
+    "AfterSHA256": "917C41AAA0868CA52D344D6487934C955FC96C9EAA72172EB1C973DCF0442E98",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_thermostat_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_thermostat_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_opacity_2x1_default.png",
+    "BeforeSHA256": "9D98B9CC6B57E1EC2F1A995C1AC5258AE9080E52BE7E8ACCAC0D8A67E5CF24BD",
+    "AfterSHA256": "010693140E28507EC3F2C21328FA2DEFD58FF9921E28E37559945EC6ABE09936",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_opacity_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_opacity_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_air_1x1_default.png",
+    "BeforeSHA256": "8E05E63157B340236B0F889FE55D068E1CDEBD96A521FBF4A2DBC68AECE586CE",
+    "AfterSHA256": "0277978E0D30365FEBA40D0BC9BC48140A51697F2A1CB5F4E462677BF3B5A7B9",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_air_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_air_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_opacity_1x1_default.png",
+    "BeforeSHA256": "9D98B9CC6B57E1EC2F1A995C1AC5258AE9080E52BE7E8ACCAC0D8A67E5CF24BD",
+    "AfterSHA256": "010693140E28507EC3F2C21328FA2DEFD58FF9921E28E37559945EC6ABE09936",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_opacity_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_opacity_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_lightbulb_2x1_default.png",
+    "BeforeSHA256": "D15B95FAAE433D38286BC1BD3A08C9902BBD4D1239288C91A0159F3DA6BE5F34",
+    "AfterSHA256": "9B11E924CEBB95351B9FF4533242CF2D3CF416AF72AEB1B3E33CF0D2AC6E5D59",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_lightbulb_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_lightbulb_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_security_2x1_default.png",
+    "BeforeSHA256": "C82A35B677C57C257EC89576C20B7BE0CBD736CF94ACC8E8868D26C7FC95EDCC",
+    "AfterSHA256": "306C76629BD091E0E3852026220606161B3415E4BEC221C1396A3C252E10F2DD",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_security_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_security_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_navigation_1x1_default.png",
+    "BeforeSHA256": "0EC44F7A6A42A89C347440B41E71CFAEE3ED1EFC0687D7E6A02256667D245FBA",
+    "AfterSHA256": "180BA4D4A77A8E8AE071B914EB0C325F8D19F3B83E89E4AC37C10F37363B5194",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_navigation_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_navigation_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_gps_fixed_3x2_default.png",
+    "BeforeSHA256": "30067D3A7F62572AEF2D8E149C78732BB232C64C7C7FB02EFF56ED8D16DA3644",
+    "AfterSHA256": "542D6957AD5BDC5A7017C7BEAA9B3DC44F961CE0282658B57079404DF9B956D7",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_gps_fixed_3x2_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_gps_fixed_3x2_default.png"
+  },
+  {
+    "File": "icons\\monad_md_home_1x1_default.png",
+    "BeforeSHA256": "21D8F11409C8F20FA90F2F55937C962D0B068970B092EFCD305A99637256CA2B",
+    "AfterSHA256": "46CC129FA718C82AD66DDCCE88DDE5A51E1F2E633939E49B0EFD8F2248C0EA74",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_home_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_home_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_gps_fixed_2x1_default.png",
+    "BeforeSHA256": "30067D3A7F62572AEF2D8E149C78732BB232C64C7C7FB02EFF56ED8D16DA3644",
+    "AfterSHA256": "542D6957AD5BDC5A7017C7BEAA9B3DC44F961CE0282658B57079404DF9B956D7",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_gps_fixed_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_gps_fixed_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_security_1x1_default.png",
+    "BeforeSHA256": "C82A35B677C57C257EC89576C20B7BE0CBD736CF94ACC8E8868D26C7FC95EDCC",
+    "AfterSHA256": "306C76629BD091E0E3852026220606161B3415E4BEC221C1396A3C252E10F2DD",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_security_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_security_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_vertical_align_bottom_3x1_default.png",
+    "BeforeSHA256": "02FB47F52B833121BFD3163925E84822F7A57CFF3669CE0C92782276DC53DC9F",
+    "AfterSHA256": "3F94F7DE2CCB88BA42A2B08037FC8BDCD3032FD8E8F33C4D70C8FCA8A594CFAF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_vertical_align_bottom_3x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_vertical_align_bottom_3x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_security_3x1_default.png",
+    "BeforeSHA256": "C82A35B677C57C257EC89576C20B7BE0CBD736CF94ACC8E8868D26C7FC95EDCC",
+    "AfterSHA256": "306C76629BD091E0E3852026220606161B3415E4BEC221C1396A3C252E10F2DD",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_security_3x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_security_3x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_tune_3x1_default.png",
+    "BeforeSHA256": "E22BE546DE667CCBB311A81C1D300EF083CA53076065BB77012495A3C8321F52",
+    "AfterSHA256": "59F533C7BF84042115EB0348EE495A08EEF9CA42A45FDFAAE4C587A73BCFBF27",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_tune_3x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_tune_3x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_speed_3x1_default.png",
+    "BeforeSHA256": "A31838AFD667D5DFB75FADDA7583AFD572CE3AE3E6328E9EFC450C41CC0ABAA2",
+    "AfterSHA256": "B84C4196CC998F8B177D087B7177932CF46187C4CF0EA8292EDC37E31ECD4717",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_speed_3x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_speed_3x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_swap_vert_3x1_default.png",
+    "BeforeSHA256": "4BD504B1DE6136998024CAB344E2A025910CE1468B1E6EB3364A3C9A05BC65D1",
+    "AfterSHA256": "07E599AC7D0F4E547BD8492E3FF56EFE6B57B331580F93995A4D3D60DB8692E9",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_swap_vert_3x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_swap_vert_3x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_power_settings_new_3x1_default.png",
+    "BeforeSHA256": "1690C4C2448976D1EEBFF39A37F0EBBBB1241EC2D5093D417FAB4A6026042171",
+    "AfterSHA256": "336E23E7134A103D5B329E2E1E98A1E5CF132F323D5747F55C1ED6BA317E0CBF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_power_settings_new_3x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_power_settings_new_3x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_lightbulb_1x1_default.png",
+    "BeforeSHA256": "D15B95FAAE433D38286BC1BD3A08C9902BBD4D1239288C91A0159F3DA6BE5F34",
+    "AfterSHA256": "9B11E924CEBB95351B9FF4533242CF2D3CF416AF72AEB1B3E33CF0D2AC6E5D59",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_lightbulb_1x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_lightbulb_1x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_flight_2x1_default.png",
+    "BeforeSHA256": "994466150F5CD968BA3DDB30CE9853715BCB0093BEED9A5C9492D44804408AD2",
+    "AfterSHA256": "AE24221CEEDFEDEDFBB0CA203CD005745133F353DC96B1D36936B419CA916D51",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_flight_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_flight_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_home_2x1_default.png",
+    "BeforeSHA256": "21D8F11409C8F20FA90F2F55937C962D0B068970B092EFCD305A99637256CA2B",
+    "AfterSHA256": "46CC129FA718C82AD66DDCCE88DDE5A51E1F2E633939E49B0EFD8F2248C0EA74",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_home_2x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_home_2x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_vertical_align_bottom_4x1_default.png",
+    "BeforeSHA256": "02FB47F52B833121BFD3163925E84822F7A57CFF3669CE0C92782276DC53DC9F",
+    "AfterSHA256": "3F94F7DE2CCB88BA42A2B08037FC8BDCD3032FD8E8F33C4D70C8FCA8A594CFAF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_vertical_align_bottom_4x1_default.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_vertical_align_bottom_4x1_default.png"
+  },
+  {
+    "File": "icons\\monad_md_network_check_2x1_status.png",
+    "BeforeSHA256": "4C078A14F81CB291A25E667A93930D51C24D18AC7829AEE66843A16D096C53FB",
+    "AfterSHA256": "85168DB7B0A422CDE5614371C765F55E346E0CA8A41AAE53CEACB645E7EBF5EB",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_network_check_2x1_status.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_network_check_2x1_status.png"
+  },
+  {
+    "File": "icons\\monad_md_radio_2x1_readout.png",
+    "BeforeSHA256": "FE69F4B9AACD47663997B53269BD59B8799FD5E8B97238A0B77BF9936FCAE5EC",
+    "AfterSHA256": "D5CB8DAE826AE6D02F2D71A3AC4D391D2073F02D9C31C777007DB39FCCCF4259",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_radio_2x1_readout.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_radio_2x1_readout.png"
+  },
+  {
+    "File": "icons\\monad_md_flight_2x1_navigation.png",
+    "BeforeSHA256": "D779939FDE006CED268C7F88863CEA5B2142B9AABD32FB54C6FC100D739728A3",
+    "AfterSHA256": "747382AD2F2502B78066E23161C05C2560D633B3BA565AD7AF6A7BE63728A971",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_flight_2x1_navigation.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_flight_2x1_navigation.png"
+  },
+  {
+    "File": "icons\\monad_md_tune_1x1_primary.png",
+    "BeforeSHA256": null,
+    "AfterSHA256": "E55EDA88ADF1D2C834938B56B3D44E2AC1315D87A811FE8D55E01533D496F35B",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_tune_1x1_primary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_tune_1x1_primary.png"
+  },
+  {
+    "File": "icons\\monad_md_gps_fixed_1x1_primary.png",
+    "BeforeSHA256": null,
+    "AfterSHA256": "CA211A0099639A0047B1E540B0F8FE35622FA2CBB49F597A262AFE118DC869CF",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_gps_fixed_1x1_primary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_gps_fixed_1x1_primary.png"
+  },
+  {
+    "File": "icons\\monad_md_gps_fixed_1x1_secondary.png",
+    "BeforeSHA256": "166C205B35F46E6F3683EFE4AB6F73CFE158389EF0EFE4AEC062F712A538C4E6",
+    "AfterSHA256": "70F866E0C271E07791229480854B35DDD23713088D5F8906BE0B9EC502113358",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_gps_fixed_1x1_secondary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_gps_fixed_1x1_secondary.png"
+  },
+  {
+    "File": "icons\\monad_md_tune_1x1_secondary.png",
+    "BeforeSHA256": "FE5189FA5B35BDE1569E33F07571FABF5D2476FE25E51F8806167E096936DF0B",
+    "AfterSHA256": "B9088869160A6FA407FE5ED63D0D2365518266CC218F126BC3378F98DA605359",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_tune_1x1_secondary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_tune_1x1_secondary.png"
+  },
+  {
+    "File": "icons\\monad_md_play_arrow_1x1_secondary.png",
+    "BeforeSHA256": "F2A7F90F0D0FB1AC3A09EB4F9486DF139BC132F8E10D97261A8F6FDC589C94AD",
+    "AfterSHA256": "C075676D89860BE9A07A4ACFFDD5B311248213194643FDFF4F3DE04948A715EA",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_play_arrow_1x1_secondary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_play_arrow_1x1_secondary.png"
+  },
+  {
+    "File": "icons\\monad_md_radio_1x1_secondary.png",
+    "BeforeSHA256": "FE69F4B9AACD47663997B53269BD59B8799FD5E8B97238A0B77BF9936FCAE5EC",
+    "AfterSHA256": "D5CB8DAE826AE6D02F2D71A3AC4D391D2073F02D9C31C777007DB39FCCCF4259",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_radio_1x1_secondary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_radio_1x1_secondary.png"
+  },
+  {
+    "File": "icons\\monad_md_navigation_1x1_secondary.png",
+    "BeforeSHA256": null,
+    "AfterSHA256": "26090F3DB7B31B1313A3546F04F0AE90DDCAA119D484FB54FC4139C64D829A79",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_navigation_1x1_secondary.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_navigation_1x1_secondary.png"
+  },
+  {
+    "File": "icons\\monad_md_home_2x1_navigation.png",
+    "BeforeSHA256": "A21A2566553D60F1665236BEDEB86CD290C4A67E6CFFF28C612DCD5861BDD22A",
+    "AfterSHA256": "638A9B8AA20D235C391D9D9DDD4B01C7D8F2F2B67FC538B214D54FE477535A9D",
+    "Backup": "C:\\Users\\range\\Desktop\\dcs\\local_archives\\page-deployments\\20261103-220635\\icons\\monad_md_home_2x1_navigation.png",
+    "Target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\icons\\monad_md_home_2x1_navigation.png"
+  }
+]

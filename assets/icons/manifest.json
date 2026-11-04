@@ -1,0 +1,3589 @@
+[
+  {
+    "kind": "background",
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "file": "monad_f14_group_frames_fd60178909a4.png",
+    "cols": 10,
+    "rows": 9,
+    "groups": [
+      [
+        0,
+        0,
+        4,
+        1
+      ],
+      [
+        4,
+        0,
+        4,
+        1
+      ],
+      [
+        8,
+        0,
+        2,
+        1
+      ],
+      [
+        0,
+        1,
+        7,
+        1
+      ],
+      [
+        7,
+        1,
+        3,
+        1
+      ],
+      [
+        0,
+        2,
+        6,
+        1
+      ],
+      [
+        6,
+        2,
+        4,
+        1
+      ],
+      [
+        0,
+        3,
+        5,
+        1
+      ],
+      [
+        5,
+        3,
+        5,
+        1
+      ],
+      [
+        0,
+        4,
+        5,
+        1
+      ],
+      [
+        5,
+        4,
+        3,
+        1
+      ],
+      [
+        8,
+        4,
+        2,
+        1
+      ],
+      [
+        0,
+        5,
+        5,
+        1
+      ],
+      [
+        5,
+        5,
+        3,
+        1
+      ],
+      [
+        8,
+        5,
+        2,
+        1
+      ],
+      [
+        0,
+        6,
+        6,
+        1
+      ],
+      [
+        6,
+        6,
+        4,
+        1
+      ],
+      [
+        0,
+        7,
+        7,
+        1
+      ],
+      [
+        7,
+        7,
+        3,
+        1
+      ],
+      [
+        0,
+        8,
+        4,
+        1
+      ],
+      [
+        4,
+        8,
+        4,
+        1
+      ],
+      [
+        8,
+        8,
+        2,
+        1
+      ]
+    ]
+  },
+  {
+    "kind": "background",
+    "page": "DCS/P-51D.tml",
+    "file": "monad_p_51d_tml_groups_fdeea499f989.png",
+    "cols": 8,
+    "rows": 6,
+    "groups": [
+      [
+        0,
+        0,
+        4,
+        1
+      ],
+      [
+        4,
+        0,
+        4,
+        1
+      ],
+      [
+        0,
+        1,
+        2,
+        1
+      ],
+      [
+        2,
+        1,
+        3,
+        1
+      ],
+      [
+        5,
+        1,
+        3,
+        1
+      ],
+      [
+        0,
+        2,
+        2,
+        1
+      ],
+      [
+        2,
+        2,
+        3,
+        1
+      ],
+      [
+        5,
+        2,
+        2,
+        1
+      ],
+      [
+        7,
+        2,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        4,
+        1
+      ],
+      [
+        4,
+        3,
+        4,
+        1
+      ],
+      [
+        0,
+        4,
+        4,
+        1
+      ],
+      [
+        4,
+        4,
+        2,
+        1
+      ],
+      [
+        6,
+        4,
+        2,
+        1
+      ],
+      [
+        0,
+        5,
+        2,
+        1
+      ],
+      [
+        2,
+        5,
+        4,
+        1
+      ]
+    ]
+  },
+  {
+    "kind": "background",
+    "page": "DCS/FC3 Main Panel.tml",
+    "file": "monad_fc3_main_panel_tml_groups_a136b44a32bc.png",
+    "cols": 13,
+    "rows": 8,
+    "groups": [
+      [
+        0,
+        0,
+        3,
+        1
+      ],
+      [
+        3,
+        0,
+        5,
+        1
+      ],
+      [
+        8,
+        0,
+        4,
+        1
+      ],
+      [
+        12,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        2,
+        7
+      ],
+      [
+        3,
+        1,
+        2,
+        6
+      ],
+      [
+        5,
+        2,
+        2,
+        1
+      ],
+      [
+        5,
+        4,
+        2,
+        2
+      ],
+      [
+        5,
+        6,
+        3,
+        2
+      ],
+      [
+        7,
+        1,
+        2,
+        5
+      ],
+      [
+        9,
+        1,
+        2,
+        5
+      ],
+      [
+        11,
+        1,
+        2,
+        6
+      ],
+      [
+        8,
+        7,
+        3,
+        1
+      ],
+      [
+        12,
+        7,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "kind": "background",
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "file": "monad_fc3_navigation___sensor_panel_tml_groups_a2094b8ecef4.png",
+    "cols": 13,
+    "rows": 8,
+    "groups": [
+      [
+        0,
+        0,
+        3,
+        1
+      ],
+      [
+        3,
+        0,
+        5,
+        1
+      ],
+      [
+        8,
+        0,
+        4,
+        1
+      ],
+      [
+        12,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        2,
+        7
+      ],
+      [
+        2,
+        1,
+        4,
+        4
+      ],
+      [
+        7,
+        1,
+        2,
+        5
+      ],
+      [
+        9,
+        1,
+        2,
+        5
+      ],
+      [
+        11,
+        1,
+        2,
+        6
+      ],
+      [
+        5,
+        5,
+        3,
+        3
+      ],
+      [
+        2,
+        6,
+        3,
+        2
+      ],
+      [
+        8,
+        7,
+        3,
+        1
+      ],
+      [
+        12,
+        7,
+        1,
+        1
+      ]
+    ]
+  },
+  {
+    "kind": "background",
+    "page": "DCS/F14.tml",
+    "file": "monad_f14_tml_groups_39a9076fcaba.png",
+    "cols": 13,
+    "rows": 8,
+    "groups": [
+      [
+        0,
+        0,
+        3,
+        1
+      ],
+      [
+        3,
+        0,
+        2,
+        1
+      ],
+      [
+        5,
+        0,
+        3,
+        3
+      ],
+      [
+        0,
+        1,
+        3,
+        7
+      ],
+      [
+        3,
+        2,
+        2,
+        2
+      ],
+      [
+        5,
+        3,
+        3,
+        1
+      ],
+      [
+        3,
+        4,
+        5,
+        2
+      ],
+      [
+        3,
+        6,
+        2,
+        1
+      ],
+      [
+        3,
+        7,
+        2,
+        1
+      ],
+      [
+        5,
+        6,
+        3,
+        1
+      ],
+      [
+        6,
+        7,
+        1,
+        1
+      ],
+      [
+        9,
+        0,
+        4,
+        3
+      ],
+      [
+        9,
+        3,
+        1,
+        2
+      ],
+      [
+        10,
+        3,
+        3,
+        1
+      ],
+      [
+        10,
+        4,
+        3,
+        1
+      ],
+      [
+        8,
+        5,
+        5,
+        1
+      ],
+      [
+        8,
+        6,
+        5,
+        2
+      ]
+    ]
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u457tze613umx",
+    "title": "Offline",
+    "icon": "network_check",
+    "file": "monad_md_network_check_2x1_readout_33496faa4f36.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u991qrf930wse",
+    "title": "IAS #\nMACH #",
+    "icon": "speed",
+    "file": "monad_md_speed_2x1_readout_fa649fd4a0e0.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u382tvd959bks",
+    "title": "ALT #\nAAG #",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_2x1_readout_7610edf5fd41.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u736qoi607cww",
+    "title": "VV\n#",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_readout_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u397fkc848wye",
+    "title": "Chaff: 0\nFlare: 0",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_readout_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u713pnv283etz",
+    "title": "Elapsed Time",
+    "icon": "timer",
+    "file": "monad_md_timer_2x1_readout_f367fc6bb59f.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u171awd552alq",
+    "title": "Comm",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u442yxa290sum",
+    "title": "Gear\nUnknown",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_2x1_secondary_96ae1cc2e071.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u127xfj701uqt",
+    "title": "ALT Roll\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u886hzn808uci",
+    "title": "Altitude\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u460ovi253fbs",
+    "title": "C/M\nRel",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u334jmy548omc",
+    "title": "F1",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u638agb458vnx",
+    "title": "F2",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u812vnu767jyw",
+    "title": "Nose\nWOW",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_2x1_readout_96ae1cc2e071.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u375hum830wgi",
+    "title": "RPM L\n#",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_readout_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u534ddk368uws",
+    "title": "RPM R\n#",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_readout_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u787zlh238pru",
+    "title": "Warn\nReset",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u387zhw582rmb",
+    "title": "Baro ALT\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u330ovo992ofo",
+    "title": "Grd Col\nAvoid",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u483nqf474bup",
+    "title": "ECM",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u395njl460flo",
+    "title": "F3",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u210weh500vjg",
+    "title": "F4",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u384rhb380dkb",
+    "title": "Left\nWOW",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_readout_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u227dni875oyn",
+    "title": "Right\nWOW",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_readout_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u577szs730zrf",
+    "title": "Temp L\n#",
+    "icon": "thermostat",
+    "file": "monad_md_thermostat_1x1_readout_f955559703df.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u582zgl709jzl",
+    "title": "Temp R\n#",
+    "icon": "thermostat",
+    "file": "monad_md_thermostat_1x1_readout_f955559703df.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u417qtz507kic",
+    "title": "Radar\nALT Hold",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u911qnn457pzf",
+    "title": "Level\nFlight",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u109aij462luo",
+    "title": "Fuel\nDump",
+    "icon": "opacity",
+    "file": "monad_md_opacity_2x1_secondary_56110c531d10.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u201sku710ckr",
+    "title": "F5",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u674ucf717ozs",
+    "title": "F6",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u131iah514gsm",
+    "title": "Elec\nPower",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u290cmu212min",
+    "title": "Fold\nWings",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u452wzy191nrx",
+    "title": "Fuel\nCons L\n#",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_readout_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u513ymm344vsj",
+    "title": "Fuel\nCons R\n#",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_readout_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u973xbh661xfy",
+    "title": "Nav\nLights",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_2x1_secondary_3b707707e705.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u114lyt477afc",
+    "title": "A/P\nOvrd",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u181fyz877xrs",
+    "title": "A/P\nReset",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u353ace536vwh",
+    "title": "Wpn\nJett",
+    "icon": "security",
+    "file": "monad_md_security_2x1_secondary_9fbd5a31f74a.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u875xmc839syt",
+    "title": "F7",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u197kud649efa",
+    "title": "F8",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u125ega491alp",
+    "title": "Canopy",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u747jaj849xby",
+    "title": "Nose W\nSteer",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u249phv554caq",
+    "title": "Left\nEngine\nStart",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u734cnq407kio",
+    "title": "Right\nEngine\nStart",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u583ndb247cju",
+    "title": "Cockpit\nLights",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_2x1_secondary_3b707707e705.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u531gmt863lau",
+    "title": "Auto\nThrust",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u954sfe360syg",
+    "title": "Chute\nRel",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u371ayt384ohx",
+    "title": "F9",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u343hfu992tlz",
+    "title": "F10",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u477gnn121yjv",
+    "title": "Flaps",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u388avs866nct",
+    "title": "Air\nBrake",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_secondary_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u946aeo411cnb",
+    "title": "Left\nEngine\nStop",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u463bcd215jfk",
+    "title": "Right\nEngine\nStop",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u288gss458jom",
+    "title": "Nav/Sensor\nPanel",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_3x2_secondary_5037930e0f8a.png",
+    "cols": 3,
+    "rows": 2,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u675ruy655phd",
+    "title": "F11",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u564ofh148qtz",
+    "title": "F12",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u336iqu552lbl",
+    "title": "Refuel\nBoom",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_secondary_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u429zel849xza",
+    "title": "Tail\nHook",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u513lxx195pjv",
+    "title": "<",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u871vjp816fnt",
+    "title": "Knee\nBoard",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u797hhz700vej",
+    "title": ">",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Main Panel.tml",
+    "id": "u707wtg816llq",
+    "title": "Home",
+    "icon": "home",
+    "file": "monad_md_home_1x1_secondary_30460f1d28d9.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u648xwd924zkf",
+    "title": "Offline",
+    "icon": "network_check",
+    "file": "monad_md_network_check_2x1_readout_33496faa4f36.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u991qrf930wse",
+    "title": "IAS #\nMACH #",
+    "icon": "speed",
+    "file": "monad_md_speed_2x1_readout_fa649fd4a0e0.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u382tvd959bks",
+    "title": "ALT #\nAAG #",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_2x1_readout_7610edf5fd41.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u890jag318wmr",
+    "title": "VV\n#",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_readout_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u397fkc848wye",
+    "title": "Chaff: 0\nFlare: 0",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_readout_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u805zkp641bwt",
+    "title": "Elapsed Time",
+    "icon": "timer",
+    "file": "monad_md_timer_2x1_readout_f367fc6bb59f.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u171awd552alq",
+    "title": "Comm",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u442yxa290sum",
+    "title": "Gear\nUnknown",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_2x1_secondary_96ae1cc2e071.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u721bqv466xqo",
+    "title": "+",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u867pyk355kkh",
+    "title": "Radar",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_2x1_secondary_5037930e0f8a.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u985nxc346zce",
+    "title": "-",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u561zex498zyd",
+    "title": "ALT Roll\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u952kir335raf",
+    "title": "Altitude\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u460ovi253fbs",
+    "title": "C/M\nRel",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u334jmy548omc",
+    "title": "F1",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u638agb458vnx",
+    "title": "F2",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u812vnu767jyw",
+    "title": "Nose\nWOW",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_2x1_readout_96ae1cc2e071.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u161ilt992daz",
+    "title": "BVR",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u216ivd484ghy",
+    "title": "CAC\nV Scan",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u562caf324hjl",
+    "title": "Bore\nMode",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u857sts774bvp",
+    "title": "HMD",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u303sij598kvd",
+    "title": "Baro ALT\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u638xah629bcq",
+    "title": "Grd Col\nAvoid",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u483nqf474bup",
+    "title": "ECM",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u395njl460flo",
+    "title": "F3",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u210weh500vjg",
+    "title": "F4",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u384rhb380dkb",
+    "title": "Left\nWOW",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_readout_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u227dni875oyn",
+    "title": "Right\nWOW",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_readout_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u182rsa558lay",
+    "title": "Long\nM Aim",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u860kes307tpj",
+    "title": "Air To\nGrd",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u468bpg983fkj",
+    "title": "Gun\nSight",
+    "icon": "security",
+    "file": "monad_md_security_1x1_secondary_9fbd5a31f74a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u804tvj524mjw",
+    "title": "Radar\nALT Hold",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u629gke444apn",
+    "title": "Level\nFlight",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u109aij462luo",
+    "title": "Fuel\nDump",
+    "icon": "opacity",
+    "file": "monad_md_opacity_2x1_secondary_56110c531d10.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u201sku710ckr",
+    "title": "F5",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u377qlk433zkd",
+    "title": "F6",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u131iah514gsm",
+    "title": "Elec\nPower",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u290cmu212min",
+    "title": "Fold\nWings",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u438ysn357aou",
+    "title": "Freq\nSel",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u550vea463ovr",
+    "title": "RWS/\nTWS",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u703oad144zdx",
+    "title": "RWR/\nSPO",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u163zyu978dwq",
+    "title": "A/P\nOvrd",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u934nhk190ckz",
+    "title": "A/P\nReset",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u353ace536vwh",
+    "title": "Wpn\nJett",
+    "icon": "security",
+    "file": "monad_md_security_2x1_secondary_9fbd5a31f74a.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u648nbt753ozu",
+    "title": "F7",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u197kud649efa",
+    "title": "F8",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u125ega491alp",
+    "title": "Canopy",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u747jaj849xby",
+    "title": "Nose W\nSteer",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u595wga419htu",
+    "title": "Tgt\nLock",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u942hya832isp",
+    "title": "Up",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u757wlf406wow",
+    "title": "Auto\nThrust",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u176weo566xmu",
+    "title": "Chute\nRel",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u271mgy625zwp",
+    "title": "F9",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u343hfu992tlz",
+    "title": "F10",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u477gnn121yjv",
+    "title": "Flaps",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u388avs866nct",
+    "title": "Air\nBrake",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_secondary_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u761tmh622fbn",
+    "title": "Nav\nMode",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u184uxb193rqd",
+    "title": "LT",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u776xfm582srr",
+    "title": "TD",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u207sft894tag",
+    "title": "RT",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u675ruy655phd",
+    "title": "F11",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u333wrb805oor",
+    "title": "F12",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u336iqu552lbl",
+    "title": "Refuel\nBoom",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_secondary_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u429zel849xza",
+    "title": "Tail\nHook",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u642sch645qhk",
+    "title": "<",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u997pgu373uqs",
+    "title": ">",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u687hyk201ekl",
+    "title": "DN",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u513lxx195pjv",
+    "title": "<",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u871vjp816fnt",
+    "title": "Knee\nBoard",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u797hhz700vej",
+    "title": ">",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/FC3 Navigation & Sensor Panel.tml",
+    "id": "u707wtg816llq",
+    "title": "Back",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u383ush371led",
+    "title": "Offline",
+    "icon": "network_check",
+    "file": "monad_md_network_check_2x1_readout_33496faa4f36.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "monad_f14_systems_link",
+    "title": "Radar / Nav",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_2x1_secondary_5037930e0f8a.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u227klv293vrk",
+    "title": "ACM\nCover",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u961spn239ulo",
+    "title": "ACM\nJett",
+    "icon": "security",
+    "file": "monad_md_security_1x1_secondary_9fbd5a31f74a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u481flf297bme",
+    "title": "Master\nCover",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u318oou269okw",
+    "title": "Take\nOFF",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u190uoy692avm",
+    "title": "Declut",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u365tjt240cuj",
+    "title": "HUD\nAWL",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u199soe347lwg",
+    "title": "Gear\nDwn",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_3x1_secondary_96ae1cc2e071.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u643nor991rwx",
+    "title": "Master Arm",
+    "icon": "security",
+    "file": "monad_md_security_3x1_secondary_9fbd5a31f74a.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u615wdy506hhb",
+    "title": "Cruise",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u148zgn842njg",
+    "title": "VDI\nNorm",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u322uod203crl",
+    "title": "VDI\nACL",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u254gic875apo",
+    "title": "L",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_readout_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u182sqd555uen",
+    "title": "N",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_readout_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u476tqm423btf",
+    "title": "R",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_readout_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u824css501sbt",
+    "title": "Auto Throttle",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_2x1_secondary_5e496e679b06.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u150nqv655bmh",
+    "title": "Gun",
+    "icon": "security",
+    "file": "monad_md_security_1x1_secondary_9fbd5a31f74a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u187rna350cfm",
+    "title": "SW\nCool",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_secondary_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u276tal928atz",
+    "title": "MSL\nPrep",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u436iqi455jwo",
+    "title": "A/G",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u799asx285rhc",
+    "title": "HSD\nNav",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u140llw270rja",
+    "title": "HSD\nOvr\nOFF",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u306unb940xom",
+    "title": "Hook\nUp",
+    "icon": "tune",
+    "file": "monad_md_tune_3x1_secondary_bf04b5dabd02.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u688gtb857yys",
+    "title": "Left\nEngine\nStart",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u121zlz943hsl",
+    "title": "Right\nEngine\nStart",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u832wqb896rms",
+    "title": "Speed",
+    "icon": "speed",
+    "file": "monad_md_speed_3x1_readout_fa649fd4a0e0.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u527xni619cew",
+    "title": "A/A",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u725ymy839uqt",
+    "title": "ALT",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_3x1_readout_7610edf5fd41.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u126zum157wbg",
+    "title": "Parking\nBrake",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_3x1_secondary_96ae1cc2e071.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u504nbn562myh",
+    "title": "Left\nThrottle\nIdle",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_2x1_secondary_5e496e679b06.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u788wxt969adj",
+    "title": "Right\nThrottle\nIdle",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_3x1_secondary_5e496e679b06.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u570omj991bsb",
+    "title": "Ldg",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u517ydv247ust",
+    "title": "VDI\nPower",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u862hrv286tra",
+    "title": "HUD\nPower",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u106vgf323zvz",
+    "title": "HSD /\nECM\nPwr",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u161wgo517old",
+    "title": "AFCS\nON",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u897rzf851loz",
+    "title": "AFCS\nOFF",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u964obv230fsk",
+    "title": "AFCS\nLight",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_1x1_readout_3b707707e705.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u391hcj735agn",
+    "title": "Left\nThrottle\nCut",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_2x1_secondary_5e496e679b06.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u563grx101bpk",
+    "title": "Right\nThrottle\nCut",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_3x1_secondary_5e496e679b06.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u614zma870lqj",
+    "title": "Steer\nTacan",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u395tud270cfy",
+    "title": "Steer\nDest",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u580olx337hhb",
+    "title": "Steer\nAWL /\nPCD",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u186zwj675ddo",
+    "title": "Steer\nVec",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u963qkj332qiu",
+    "title": "Steer\nMan",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u410nuq148roi",
+    "title": "Anti\nSkid",
+    "icon": "tune",
+    "file": "monad_md_tune_3x1_secondary_bf04b5dabd02.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u425zmy741zxe",
+    "title": "Ejection\nSeat",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u150dee530bbv",
+    "title": "HDG",
+    "icon": "tune",
+    "file": "monad_md_tune_3x1_readout_bf04b5dabd02.png",
+    "cols": 3,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u602kpb330pdq",
+    "title": "Taxi\nLight",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_1x1_secondary_3b707707e705.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u566wrb869iee",
+    "title": "Instr",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u468ijb171lwv",
+    "title": "Anti Col\nSteady",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u168ahf573gkd",
+    "title": "Tail\nLight",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_1x1_secondary_3b707707e705.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u222izi230dyh",
+    "title": "White\nFlood\nOFF",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u715jgw156wjm",
+    "title": "ATP\nALT\nHold",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u298gik249pip",
+    "title": "AP ALT\nGNT",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_1x1_secondary_7610edf5fd41.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u828jkn129fpv",
+    "title": "AP\nEngage",
+    "icon": "flight",
+    "file": "monad_md_flight_1x1_secondary_cd2419673f92.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u534ums724iul",
+    "title": "Oxygen",
+    "icon": "tune",
+    "file": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u689qen370vif",
+    "title": "Home",
+    "icon": "home",
+    "file": "monad_md_home_1x1_secondary_30460f1d28d9.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u229hmt617yqr",
+    "title": "Console",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u381tbm632xtp",
+    "title": "Indexer",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u122zry712pym",
+    "title": "Anti Col\nOFF",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u905igi532ldw",
+    "title": "Wing\nLight",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14.tml",
+    "id": "u637fmq556dzy",
+    "title": "Red\nFlood\nOFF",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_2",
+    "title": "Offline",
+    "icon": "network_check",
+    "file": "monad_md_network_check_2x1_readout_33496faa4f36.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_3",
+    "title": "IAS KT",
+    "icon": "speed",
+    "file": "monad_md_speed_2x1_readout_fa649fd4a0e0.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_4",
+    "title": "ALT FT",
+    "icon": "swap_vert",
+    "file": "monad_md_swap_vert_2x1_readout_7610edf5fd41.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_5",
+    "title": "Battery",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_6",
+    "title": "Generator",
+    "icon": "power_settings_new",
+    "file": "monad_md_power_settings_new_1x1_secondary_5e496e679b06.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_7",
+    "title": "Fuel\nBoost",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_secondary_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_8",
+    "title": "Ignition\nBoth",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_9",
+    "title": "Mixture\nRun",
+    "icon": "opacity",
+    "file": "monad_md_opacity_1x1_secondary_56110c531d10.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_10",
+    "title": "Pitot\nHeat",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_11",
+    "title": "Landing\nLight",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_1x1_secondary_3b707707e705.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_12",
+    "title": "Brake\nHandle",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_secondary_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_13",
+    "title": "Gear\nDown",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_secondary_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_14",
+    "title": "Gear\nUp",
+    "icon": "vertical_align_bottom",
+    "file": "monad_md_vertical_align_bottom_1x1_secondary_96ae1cc2e071.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_15",
+    "title": "Flaps\nUp",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_16",
+    "title": "Flaps\n20 DEG",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_17",
+    "title": "Flaps\nDown",
+    "icon": "air",
+    "file": "monad_md_air_1x1_secondary_63209f364bd1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_18",
+    "title": "Down\nLamp",
+    "icon": "lightbulb",
+    "file": "monad_md_lightbulb_2x1_readout_3b707707e705.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_19",
+    "title": "Radio\nPower",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_20",
+    "title": "Coolant\nAuto",
+    "icon": "opacity",
+    "file": "monad_md_opacity_2x1_secondary_56110c531d10.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_21",
+    "title": "Oil\nAuto",
+    "icon": "opacity",
+    "file": "monad_md_opacity_2x1_secondary_56110c531d10.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_22",
+    "title": "Radio\nA",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_23",
+    "title": "Radio\nB",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_24",
+    "title": "Radio\nC",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_25",
+    "title": "Radio\nD",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_26",
+    "title": "Guns\nSafe",
+    "icon": "security",
+    "file": "monad_md_security_2x1_secondary_9fbd5a31f74a.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_27",
+    "title": "Guns\nArm",
+    "icon": "security",
+    "file": "monad_md_security_2x1_secondary_9fbd5a31f74a.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_28",
+    "title": "Cooling\nCovers",
+    "icon": "opacity",
+    "file": "monad_md_opacity_2x1_secondary_56110c531d10.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_29",
+    "title": "Cockpit\nF1",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_30",
+    "title": "External\nF2",
+    "icon": "visibility",
+    "file": "monad_md_visibility_1x1_secondary_5ca65ca4d9b6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/P-51D.tml",
+    "id": "monad_p51_31",
+    "title": "Home",
+    "icon": "home",
+    "file": "monad_md_home_2x1_secondary_30460f1d28d9.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_2",
+    "title": "OFFLINE",
+    "icon": "network_check",
+    "file": "monad_md_network_check_2x1_status_compact_33496faa4f36.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "status"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_3",
+    "title": "TACAN CH",
+    "icon": "radio",
+    "file": "monad_md_radio_2x1_readout_compact_3a27578be5e1.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_4",
+    "title": "RADIO UHF",
+    "icon": "radio",
+    "file": "monad_md_radio_2x1_readout_compact_3a27578be5e1.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_5",
+    "title": "FLIGHT\nCONTROLS",
+    "icon": "flight",
+    "file": "monad_md_flight_2x1_navigation_compact_a585a3105a2e.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "navigation"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_6",
+    "title": "PD\nSEARCH",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_primary_compact_51f2160245bb.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "primary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_7",
+    "title": "PULSE\nSEARCH",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_primary_compact_51f2160245bb.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "primary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_8",
+    "title": "RANGE\nWHILE\nSEARCH",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_primary_compact_51f2160245bb.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "primary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_9",
+    "title": "TRACK\nSCAN\nAUTO",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_primary_compact_099b5b34df7b.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "primary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_10",
+    "title": "TRACK\nSCAN\nMANUAL",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_primary_compact_099b5b34df7b.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "primary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_11",
+    "title": "PD SINGLE\nTRACK",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_12",
+    "title": "PULSE\nSINGLE\nTRACK",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_13",
+    "title": "RADAR\nSTABILIZE",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_14",
+    "title": "RADAR\nDISPLAY",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_15",
+    "title": "IFF\nIDENTIFY",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_16",
+    "title": "RADAR\n5 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_17",
+    "title": "RADAR\n10 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_18",
+    "title": "RADAR\n20 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_19",
+    "title": "RADAR\n50 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_20",
+    "title": "RADAR\n100 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_21",
+    "title": "RADAR\n200 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_22",
+    "title": "SCAN\n\u00c2\u00b110\u00c2\u00b0",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_23",
+    "title": "SCAN\n\u00c2\u00b120\u00c2\u00b0",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_24",
+    "title": "SCAN\n\u00c2\u00b140\u00c2\u00b0",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_25",
+    "title": "SCAN\n\u00c2\u00b165\u00c2\u00b0",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_26",
+    "title": "TID\n25 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_27",
+    "title": "TID\n50 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_28",
+    "title": "TID\n100 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_29",
+    "title": "TID\n200 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_30",
+    "title": "TID\n400 NM",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_31",
+    "title": "GROUND\nSTAB",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_compact_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_32",
+    "title": "AIRCRAFT\nSTAB",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_compact_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_33",
+    "title": "ATTACK\nDISPLAY",
+    "icon": "play_arrow",
+    "file": "monad_md_play_arrow_1x1_secondary_compact_5ed3ead3314d.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_34",
+    "title": "TV / TCS\nDISPLAY",
+    "icon": "play_arrow",
+    "file": "monad_md_play_arrow_1x1_secondary_compact_5ed3ead3314d.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_35",
+    "title": "HAND CTRL\nTID\nCURSOR",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_36",
+    "title": "STEER\nTACAN",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_37",
+    "title": "STEER\nDEST",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_38",
+    "title": "STEER\nAPPROACH",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_39",
+    "title": "STEER\nVECTOR",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_40",
+    "title": "STEER\nMANUAL",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_41",
+    "title": "HSD\nECM",
+    "icon": "tune",
+    "file": "monad_md_tune_1x1_secondary_compact_bf04b5dabd02.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_42",
+    "title": "HSD\nTID",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_43",
+    "title": "HSD\nNAV",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_44",
+    "title": "HEADING\n- 1 DEG",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_45",
+    "title": "HEADING\n+ 1 DEG",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_46",
+    "title": "TACAN\nONES -",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_47",
+    "title": "TACAN\nONES +",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_48",
+    "title": "TACAN\nTENS -",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_49",
+    "title": "TACAN\nTENS +",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_50",
+    "title": "TACAN\nX / Y",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_51",
+    "title": "TACAN\nOFF",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_52",
+    "title": "TACAN\nRECEIVE",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_53",
+    "title": "TACAN\nTX / RX",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_54",
+    "title": "COURSE\n- 1 DEG",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_55",
+    "title": "COURSE\n+ 1 DEG",
+    "icon": "navigation",
+    "file": "monad_md_navigation_1x1_secondary_compact_4a2efbf77bb6.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_56",
+    "title": "TID\nCOLLISION",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_57",
+    "title": "TID\nDATA LINK",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_58",
+    "title": "TID\nSYMBOLS",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_59",
+    "title": "TID\nALTITUDE",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_60",
+    "title": "TID\nVELOCITY",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_61",
+    "title": "TID\nTRACK\nHOLD",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_62",
+    "title": "RADAR\n1 BAR",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_63",
+    "title": "RADAR\n2 BARS",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_64",
+    "title": "RADAR\n4 BARS",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_65",
+    "title": "RADAR\n8 BARS",
+    "icon": "gps_fixed",
+    "file": "monad_md_gps_fixed_1x1_secondary_compact_5037930e0f8a.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_66",
+    "title": "UHF CH\nPREV",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_67",
+    "title": "UHF PRESET",
+    "icon": "radio",
+    "file": "monad_md_radio_2x1_readout_compact_3a27578be5e1.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_68",
+    "title": "UHF CH\nNEXT",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_69",
+    "title": "UHF\nGUARD",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_70",
+    "title": "UHF\nMANUAL",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_71",
+    "title": "UHF\nPRESET",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_72",
+    "title": "TACAN\nTAKE CMD",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_73",
+    "title": "V/UHF CH\nPREV",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_74",
+    "title": "V/UHF CH\nNEXT",
+    "icon": "radio",
+    "file": "monad_md_radio_1x1_secondary_compact_3a27578be5e1.png",
+    "cols": 1,
+    "rows": 1,
+    "role": "secondary"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_75",
+    "title": "FLIGHT\nCONTROLS",
+    "icon": "flight",
+    "file": "monad_md_flight_2x1_navigation_compact_a585a3105a2e.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "navigation"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_76",
+    "title": "HOME",
+    "icon": "home",
+    "file": "monad_md_home_2x1_navigation_compact_4433a8005888.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "navigation"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_77",
+    "title": "TACAN NM",
+    "icon": "radio",
+    "file": "monad_md_radio_2x1_readout_compact_3a27578be5e1.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  },
+  {
+    "page": "DCS/F14 Radar & Navigation.tml",
+    "id": "monad_f14_systems_78",
+    "title": "TACAN CRS",
+    "icon": "radio",
+    "file": "monad_md_radio_2x1_readout_compact_3a27578be5e1.png",
+    "cols": 2,
+    "rows": 1,
+    "role": "readout"
+  }
+]

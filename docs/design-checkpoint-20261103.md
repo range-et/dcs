@@ -1,0 +1,11 @@
+# Touch Portal design checkpoint
+
+P-51D, FC3 Main, FC3 Navigation/Sensors and F-14 flight controls now have amber frames around functional groups. Existing grid positions, spans, commands, conditions and control counts are preserved. The 13-column flight pages maximize button space to give multiline labels room. A containment audit checked every control fits wholly within one group, including merged buttons. Body sizes are fixed by page; three long F-14 labels were reflowed without shrinking their fonts.
+
+The user confirmed on the actual iPad that Home and all four updated aircraft pages have clear labels and borders in the gaps. Blender's separately calibrated iPad borders were previously confirmed. Existing aircraft/Blender functional confirmations remain valid; no live DCS mission was run for these visual changes.
+
+Ownership: this repository builds/deploys only the five DCS pages. The active Home page moved out of this repository to C:/Users/range/Desktop/touchportal_shared. Its DCS links are external integration points. OBS has its own repository at C:/Users/range/Desktop/obs_touchportal; Blender remains at C:/Users/range/Desktop/blender_touchportal. Historical baseline backups remain intact.
+
+Generated icons/backgrounds have SHA-256 content suffixes so mobile clients fetch changed graphics instead of showing old cached images. Only current referenced graphics are versioned; prior generated variants and before-deploy copies remain in ignored local_archives/. Dated deployment manifests retain hashes and restore locations. Runtime BIOS code, input profiles and radio configuration were not changed by this design pass.
+
+Validation: tools/audit-page-assets.cjs validates all installed page assets and links across the four local page owners. tools/audit-ui-type.py validates standard body sizes and static/feedback text widths; tools/audit-dense-preservation.cjs checks the original dense page commands/positions. All five DCS pages were also compared against the previous commit for unchanged command/condition arrays and spans. The independent critic reviewed group containment, base labels/icons and the Home Sensors label. Mobile user confirmation is the primary frame-alignment evidence.
