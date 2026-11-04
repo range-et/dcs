@@ -1,7 +1,7 @@
 // Verify the combined installed page graph and referenced static icon files.
 const fs=require('fs'),path=require('path');
 const profile=path.join(process.env.APPDATA,'TouchPortal');
-const roots=[path.resolve(__dirname,'../pages'),path.resolve(__dirname,'../../blender_touchportal/pages'),path.resolve(__dirname,'../../touchportal_shared/pages'),path.resolve(__dirname,'../../obs_touchportal/pages')];
+const roots=[path.resolve(__dirname,'../pages'),path.resolve(__dirname,'../../blender_touchportal/pages'),path.resolve(__dirname,'../../touchportal_shared/pages'),path.resolve(__dirname,'../../obs_recording_touchportal/pages')];
 let count=0;
 for(const root of roots)for(const file of fs.readdirSync(root,{recursive:true}).filter(x=>x.endsWith('.tml'))){
  const page=JSON.parse(fs.readFileSync(path.join(root,file)));const occupied=new Set();

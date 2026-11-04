@@ -4,7 +4,7 @@ P-51D, FC3 Main, FC3 Navigation/Sensors and F-14 flight controls now have amber 
 
 The user confirmed on the actual iPad that Home and all four updated aircraft pages have clear labels and borders in the gaps. Blender's separately calibrated iPad borders were previously confirmed. Existing aircraft/Blender functional confirmations remain valid; no live DCS mission was run for these visual changes.
 
-Ownership: this repository builds/deploys only the five DCS pages. The active Home page moved out of this repository to C:/Users/range/Desktop/touchportal_shared. Its DCS links are external integration points. OBS has its own repository at C:/Users/range/Desktop/obs_touchportal; Blender remains at C:/Users/range/Desktop/blender_touchportal. Historical baseline backups remain intact.
+Ownership: this repository builds/deploys only the five DCS pages. The active Home page moved out of this repository to C:/Users/range/Desktop/touchportal_shared. Its DCS links are external integration points. OBS has its own repository at C:/Users/range/Desktop/obs_recording_touchportal; Blender remains at C:/Users/range/Desktop/blender_touchportal. Historical baseline backups remain intact.
 
 Generated icons/backgrounds have SHA-256 content suffixes so mobile clients fetch changed graphics instead of showing old cached images. Only current referenced graphics are versioned; prior generated variants and before-deploy copies remain in ignored local_archives/. Dated deployment manifests retain hashes and restore locations. Runtime BIOS code, input profiles and radio configuration were not changed by this design pass.
 
