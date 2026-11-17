@@ -66,6 +66,16 @@ Use the TX16S manual in ref_docs to identify physical switches, USB outputs, and
 
 ## Change and validation policy
 
+The F-14 main page includes a Nosewheel toggle beside Gear (row 2). It sends
+the default pilot N binding only while F-14 is connected and nose weight-on-wheels
+is ON. Keep DCS focused. ON/OFF follows the actual NWS ENGA cockpit lamp;
+Offline means no aircraft connection. OFF does not mean the wheel is locked.
+This avoids invoking the same stick button's autopilot-reference function airborne.
+After rebuilding pages, run `node tools/add-f14-nws.cjs` to reapply this addition.
+The installed page, assets, plugin references and Touch Portal editor parsing were
+verified on 2026-11-17; live DCS key delivery and lamp feedback remain to be checked.
+See [Heatblur ground handling](https://f14.manuals.heatblur.se/f14ab/systems/flight_controls_gear/gear_ground_handling.html).
+
 Keep the baseline backup immutable. Store editable source/configuration separately, retain assets and an inventory for restoration, and record validation status honestly. Test changes incrementally: page appearance and pressed state, connection and aircraft identification, individual controls, feedback, and clean shutdown. Keep local installer/runtime binaries outside Git and record their hashes. Local commits do not imply publication or upload.
 
 The repository already contained its license commit before this work. The first and second requested commits are the next two commits: intent, then the working-state backup.

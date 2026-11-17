@@ -1977,7 +1977,400 @@
       },
       {},
       {},
-      {},
+      {
+        "kSCM": 25,
+        "kIAPBKC": -14803426,
+        "ITS": false,
+        "kWvKA": 0,
+        "kKnZinT": false,
+        "IiS": true,
+        "kSCC": -4611631,
+        "id": "dcs_f14_nosewheel_steering",
+        "GUdata": "",
+        "kCT": 1,
+        "TELS": 5,
+        "kSCI": "",
+        "kKnRotIImg2": {
+          "a": [],
+          "f": "",
+          "fe": ""
+        },
+        "kIAs": [],
+        "GUid": -1,
+        "kKnSt": 0,
+        "kKnBGT": 0,
+        "kSVP": 0,
+        "kSVAC": -10575407,
+        "inB": false,
+        "kSCTM": 0,
+        "inC": 0,
+        "FF": "Arial",
+        "A": [
+          {
+            "KEY_TYPE": "EXTENDED_IF_STATEMENT",
+            "kIEn": true,
+            "kL": [
+              {
+                "val": "ON",
+                "vari": "mgdc_f-14_st_aircraft_connection",
+                "cmp": 0,
+                "lc": 0,
+                "varc": "${value:mgdc_f-14_st_aircraft_connection}",
+                "varp": "mgdc_f-14_st_aircraft_connection"
+              }
+            ]
+          },
+          {
+            "KEY_TYPE": "EXTENDED_IF_STATEMENT",
+            "kIEn": true,
+            "kL": [
+              {
+                "val": "ON",
+                "vari": "mgdc_f-14_st_ext_wow_nose",
+                "cmp": 0,
+                "lc": 0,
+                "varc": "${value:mgdc_f-14_st_ext_wow_nose}",
+                "varp": "mgdc_f-14_st_ext_wow_nose"
+              }
+            ]
+          },
+          {
+            "KEY_KEYCODES": [
+              "N|78|1|0|0"
+            ],
+            "KEY_DURATION": 100,
+            "kIEn": true,
+            "KEY_TYPE": "KEY_PRESS_ACTION_V2"
+          },
+          {
+            "KEY_TYPE": "LOGIC_IF_END_ACTION",
+            "kIEn": true
+          },
+          {
+            "KEY_TYPE": "LOGIC_IF_END_ACTION",
+            "kIEn": true
+          }
+        ],
+        "kMB": 0,
+        "kWvZ": 1,
+        "BD": 1,
+        "kKnFC3": 0,
+        "C": [],
+        "BE": -14736341,
+        "BG": -14736341,
+        "E": [
+          {
+            "kChoices": [
+              "OFF",
+              "ON"
+            ],
+            "kCSO": -1,
+            "kVal": "ON",
+            "kVT": "choice",
+            "kVSI": "mgdc_f-14_st_plt_hud_light_nws",
+            "kPID": "mgdc_f-14_ev_plt_hud_light_nws",
+            "kLS": [],
+            "kIEn": true,
+            "kCO": "none",
+            "KEY_TYPE": "PLUGIN_EVENT",
+            "kFormat": "When f-14 PILOT HUD Light NWS Enga (yellow) is $val",
+            "kName": "f-14 PILOT HUD Light NWS Enga (yellow)",
+            "kpip": ""
+          },
+          {
+            "KEY_TYPE": "EXTENDED_IF_STATEMENT",
+            "kIEn": true,
+            "kL": [
+              {
+                "val": "ON",
+                "vari": "mgdc_f-14_st_aircraft_connection",
+                "cmp": 0,
+                "lc": 0,
+                "varc": "${value:mgdc_f-14_st_aircraft_connection}",
+                "varp": "mgdc_f-14_st_aircraft_connection"
+              }
+            ]
+          },
+          {
+            "KEY_IS_CHANGE_IS_FULL_ICON": false,
+            "kiTF": false,
+            "KEY_START_COLOR": -14012102,
+            "kiTOV": false,
+            "KEY_IS_CHANGE_TITLE": true,
+            "KEY_IS_CHANGE_TEXT_COLOR": true,
+            "KEY_END_COLOR": -14012102,
+            "KEY_IS_CHANGE_ICON": false,
+            "kiBD": false,
+            "KEY_IS_CHANGE_ALIGN_HOR": false,
+            "KEY_IS_CHANGE_IS_ROUNDED": false,
+            "kIEn": true,
+            "kC": false,
+            "KEY_IS_CHANGE_BG_COLOR_RAW": false,
+            "kiTOH": false,
+            "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
+            "KEY_TITLE": "Nosewheel\nON",
+            "KEY_IS_CHANGE_BG_COLOR": true,
+            "KEY_IS_CHANGE_IS_TRANSPARENT": true,
+            "KEY_IS_CHANGE_ALIGN_VERT": false,
+            "KEY_TEXT_COLOR": -9523899,
+            "KEY_FILENAME": "",
+            "KEY_ALT_FILENAME": "",
+            "KEY_IS_TRANSPARENT": false
+          },
+          {
+            "KEY_TYPE": "LOGIC_IF_END_ACTION",
+            "kIEn": true
+          },
+          {
+            "kChoices": [
+              "OFF",
+              "ON"
+            ],
+            "kCSO": -1,
+            "kVal": "OFF",
+            "kVT": "choice",
+            "kVSI": "mgdc_f-14_st_plt_hud_light_nws",
+            "kPID": "mgdc_f-14_ev_plt_hud_light_nws",
+            "kLS": [],
+            "kIEn": true,
+            "kCO": "none",
+            "KEY_TYPE": "PLUGIN_EVENT",
+            "kFormat": "When f-14 PILOT HUD Light NWS Enga (yellow) is $val",
+            "kName": "f-14 PILOT HUD Light NWS Enga (yellow)",
+            "kpip": ""
+          },
+          {
+            "KEY_TYPE": "EXTENDED_IF_STATEMENT",
+            "kIEn": true,
+            "kL": [
+              {
+                "val": "ON",
+                "vari": "mgdc_f-14_st_aircraft_connection",
+                "cmp": 0,
+                "lc": 0,
+                "varc": "${value:mgdc_f-14_st_aircraft_connection}",
+                "varp": "mgdc_f-14_st_aircraft_connection"
+              }
+            ]
+          },
+          {
+            "KEY_IS_CHANGE_IS_FULL_ICON": false,
+            "kiTF": false,
+            "KEY_START_COLOR": -14736341,
+            "kiTOV": false,
+            "KEY_IS_CHANGE_TITLE": true,
+            "KEY_IS_CHANGE_TEXT_COLOR": true,
+            "KEY_END_COLOR": -14736341,
+            "KEY_IS_CHANGE_ICON": false,
+            "kiBD": false,
+            "KEY_IS_CHANGE_ALIGN_HOR": false,
+            "KEY_IS_CHANGE_IS_ROUNDED": false,
+            "kIEn": true,
+            "kC": false,
+            "KEY_IS_CHANGE_BG_COLOR_RAW": false,
+            "kiTOH": false,
+            "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
+            "KEY_TITLE": "Nosewheel\nOFF",
+            "KEY_IS_CHANGE_BG_COLOR": true,
+            "KEY_IS_CHANGE_IS_TRANSPARENT": true,
+            "KEY_IS_CHANGE_ALIGN_VERT": false,
+            "KEY_TEXT_COLOR": -1117450,
+            "KEY_FILENAME": "",
+            "KEY_ALT_FILENAME": "",
+            "KEY_IS_TRANSPARENT": false
+          },
+          {
+            "KEY_TYPE": "LOGIC_IF_END_ACTION",
+            "kIEn": true
+          },
+          {
+            "kChoices": [
+              "OFF",
+              "ON"
+            ],
+            "kCSO": -1,
+            "kVal": "OFF",
+            "kVT": "choice",
+            "kVSI": "mgdc_f-14_st_aircraft_connection",
+            "kPID": "mgdc_f-14_ev_aircraft_connection",
+            "kLS": [],
+            "kIEn": true,
+            "kCO": "none",
+            "KEY_TYPE": "PLUGIN_EVENT",
+            "kFormat": "When aircraft state is $val",
+            "kName": "aircraft state",
+            "kpip": ""
+          },
+          {
+            "KEY_IS_CHANGE_IS_FULL_ICON": false,
+            "kiTF": false,
+            "KEY_START_COLOR": -14736341,
+            "kiTOV": false,
+            "KEY_IS_CHANGE_TITLE": true,
+            "KEY_IS_CHANGE_TEXT_COLOR": true,
+            "KEY_END_COLOR": -14736341,
+            "KEY_IS_CHANGE_ICON": false,
+            "kiBD": false,
+            "KEY_IS_CHANGE_ALIGN_HOR": false,
+            "KEY_IS_CHANGE_IS_ROUNDED": false,
+            "kIEn": true,
+            "kC": false,
+            "KEY_IS_CHANGE_BG_COLOR_RAW": false,
+            "kiTOH": false,
+            "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
+            "KEY_TITLE": "Nosewheel\nOffline",
+            "KEY_IS_CHANGE_BG_COLOR": true,
+            "KEY_IS_CHANGE_IS_TRANSPARENT": true,
+            "KEY_IS_CHANGE_ALIGN_VERT": false,
+            "KEY_TEXT_COLOR": -4800564,
+            "KEY_FILENAME": "",
+            "KEY_ALT_FILENAME": "",
+            "KEY_IS_TRANSPARENT": false
+          },
+          {
+            "kChoices": [
+              "OFF",
+              "ON"
+            ],
+            "kCSO": -1,
+            "kVal": "ON",
+            "kVT": "choice",
+            "kVSI": "mgdc_f-14_st_aircraft_connection",
+            "kPID": "mgdc_f-14_ev_aircraft_connection",
+            "kLS": [],
+            "kIEn": true,
+            "kCO": "none",
+            "KEY_TYPE": "PLUGIN_EVENT",
+            "kFormat": "When aircraft state is $val",
+            "kName": "aircraft state",
+            "kpip": ""
+          },
+          {
+            "KEY_TYPE": "EXTENDED_IF_STATEMENT",
+            "kIEn": true,
+            "kL": [
+              {
+                "val": "ON",
+                "vari": "mgdc_f-14_st_plt_hud_light_nws",
+                "cmp": 0,
+                "lc": 0,
+                "varc": "${value:mgdc_f-14_st_plt_hud_light_nws}",
+                "varp": "mgdc_f-14_st_plt_hud_light_nws"
+              }
+            ]
+          },
+          {
+            "KEY_IS_CHANGE_IS_FULL_ICON": false,
+            "kiTF": false,
+            "KEY_START_COLOR": -14012102,
+            "kiTOV": false,
+            "KEY_IS_CHANGE_TITLE": true,
+            "KEY_IS_CHANGE_TEXT_COLOR": true,
+            "KEY_END_COLOR": -14012102,
+            "KEY_IS_CHANGE_ICON": false,
+            "kiBD": false,
+            "KEY_IS_CHANGE_ALIGN_HOR": false,
+            "KEY_IS_CHANGE_IS_ROUNDED": false,
+            "kIEn": true,
+            "kC": false,
+            "KEY_IS_CHANGE_BG_COLOR_RAW": false,
+            "kiTOH": false,
+            "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
+            "KEY_TITLE": "Nosewheel\nON",
+            "KEY_IS_CHANGE_BG_COLOR": true,
+            "KEY_IS_CHANGE_IS_TRANSPARENT": true,
+            "KEY_IS_CHANGE_ALIGN_VERT": false,
+            "KEY_TEXT_COLOR": -9523899,
+            "KEY_FILENAME": "",
+            "KEY_ALT_FILENAME": "",
+            "KEY_IS_TRANSPARENT": false
+          },
+          {
+            "KEY_TYPE": "LOGIC_ELSE_ACTION",
+            "kIEn": true
+          },
+          {
+            "KEY_IS_CHANGE_IS_FULL_ICON": false,
+            "kiTF": false,
+            "KEY_START_COLOR": -14736341,
+            "kiTOV": false,
+            "KEY_IS_CHANGE_TITLE": true,
+            "KEY_IS_CHANGE_TEXT_COLOR": true,
+            "KEY_END_COLOR": -14736341,
+            "KEY_IS_CHANGE_ICON": false,
+            "kiBD": false,
+            "KEY_IS_CHANGE_ALIGN_HOR": false,
+            "KEY_IS_CHANGE_IS_ROUNDED": false,
+            "kIEn": true,
+            "kC": false,
+            "KEY_IS_CHANGE_BG_COLOR_RAW": false,
+            "kiTOH": false,
+            "KEY_TYPE": "CHANGE_BUTTON_VISUALS_ACTION",
+            "KEY_TITLE": "Nosewheel\nOFF",
+            "KEY_IS_CHANGE_BG_COLOR": true,
+            "KEY_IS_CHANGE_IS_TRANSPARENT": true,
+            "KEY_IS_CHANGE_ALIGN_VERT": false,
+            "KEY_TEXT_COLOR": -1117450,
+            "KEY_FILENAME": "",
+            "KEY_ALT_FILENAME": "",
+            "KEY_IS_TRANSPARENT": false
+          },
+          {
+            "KEY_TYPE": "LOGIC_IF_END_ACTION",
+            "kIEn": true
+          }
+        ],
+        "I": "monad_md_tune_2x1_secondary_bf04b5dabd02.png",
+        "BiR": false,
+        "kSCTY": 0,
+        "kML": 0,
+        "BiT": false,
+        "kSCHS": false,
+        "kKnFC1": 0,
+        "kKnFC2": 0,
+        "kKnRotIS": 5,
+        "inS": "",
+        "kMR": 0,
+        "kMT": 0,
+        "T": "Nosewheel\nOffline",
+        "kKnMR": "360",
+        "kKnS": "18.0",
+        "kSCAC": -14145496,
+        "kWvRB": 0,
+        "kKnT": 0,
+        "kSCHRC": false,
+        "THO": 3,
+        "kWvU": "",
+        "kSCIUFATS": false,
+        "kKnIStV": false,
+        "kSIP": 0,
+        "kKnRotTh": "10.0",
+        "Ialt": "",
+        "kKnRIS": "100",
+        "kKnRE": "100",
+        "kKnRS": "0",
+        "kSCIIVA": true,
+        "kKnSca": "100",
+        "kKnRP": 0,
+        "COLS": 2,
+        "TA": 5,
+        "kKnM": 2,
+        "TC": -4800564,
+        "kSTP": 0,
+        "kKnRAO": "0",
+        "kKnSC": "10",
+        "TO": 3,
+        "kKnFT": 2,
+        "TP": 3,
+        "kKnBgI": {
+          "a": [],
+          "f": "",
+          "fe": ""
+        },
+        "kSD": 0,
+        "TS": 20,
+        "ROWS": 1
+      },
       {},
       {
         "kSCM": 25,
