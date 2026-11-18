@@ -1,6 +1,7 @@
 """Extend the saved DCS-only model; preserve original mixers, trims and inputs."""
 import copy
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -8,7 +9,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / 'work/python-deps'))
 import yaml
 
-source = ROOT / 'backups/tx16s/20261026-refinement/MODELS/model7.yml'
+ICARUS_ROOT = Path(os.environ.get('ICARUS_ROOT', str(ROOT.parent / 'icarus')))
+source = ICARUS_ROOT / 'radios/tx16s/backups/dcs-20261026/20261026-refinement/MODELS/model7.yml'
 model = yaml.safe_load(source.read_text(encoding='utf-8-sig'))
 assert model['header']['name'] == 'DCS Cockpit'
 assert len(model['mixData']) == 17

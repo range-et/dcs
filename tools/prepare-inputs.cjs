@@ -25,13 +25,13 @@ function stripKeyDiffs(source){
  throw Error('Unbalanced keyDiffs');
 }
 function profile(module,axisModule){
- const current=path.join(root,'backups/tx16s/20261026-refinement/Config/Input',module,'joystick',device);
+ const current=path.join(root,'backups/dcs-inputs/20261026-refinement/Config/Input',module,'joystick',device);
  const source=stripKeyDiffs(read(fs.existsSync(current)?current:path.join(root,'baseline/dcs/Config/Input',axisModule,'joystick',device)));
  const keys={},axes=[];
- function bind(name,buttons,fields){
+ function bind(name,buttons,fields,removed=[]){
   const hash=[['d','down'],['p','pressed'],['u','up'],['cd','cockpit_device_id'],['vd','value_down'],['vp','value_pressed'],['vu','value_up']].map(([prefix,key])=>prefix+(fields[key]??'nil')).join('');
   if(keys[hash])throw Error('Duplicate command '+hash);
-  keys[hash]={name,buttons};commandManifest.push({module,name,buttons,hash,...fields});
+  keys[hash]={name,buttons,removed};commandManifest.push({module,name,buttons,hash,...fields});
  }
  function native(name,buttons,command,deviceName,value,upValue){
   const down=f14cmd[command],cockpit_device_id=f14dev[deviceName];
@@ -40,7 +40,7 @@ function profile(module,axisModule){
  }
  function save(){
   const quote=JSON.stringify;
-  const lines=Object.entries(keys).map(([hash,{name,buttons}])=>'\t\t['+quote(hash)+'] = { ["name"] = '+quote(name)+', ["added"] = { '+buttons.map((b,i)=>'['+(i+1)+'] = { ["key"] = "JOY_BTN'+b+'" }').join(', ')+' } },');
+  const lines=Object.entries(keys).map(([hash,{name,buttons,removed}])=>'\t\t['+quote(hash)+'] = { ["name"] = '+quote(name)+(removed.length?', ["removed"] = { '+removed.map((b,i)=>'['+(i+1)+'] = { ["key"] = "JOY_BTN'+b+'" }').join(', ')+' }':'')+', ["added"] = { '+buttons.map((b,i)=>'['+(i+1)+'] = { ["key"] = "JOY_BTN'+b+'" }').join(', ')+' } },');
   let text=source.replace('local diff = {','local diff = {\n\t["keyDiffs"] = {\n'+lines.join('\n')+'\n\t},');
   if(axes.length)text=text.replace('["axisDiffs"] = {','["axisDiffs"] = {\n'+axes.join('\n'));
   const out=path.join(root,'config/dcs/Config/Input',module,'joystick',device);fs.mkdirSync(path.dirname(out),{recursive:true});fs.writeFileSync(out,text);
@@ -68,7 +68,7 @@ function profile(module,axisModule){
 }
 {
  const p=profile('P-51D','P-51D'),b=p.bind;
- b('Gun fire',[7],{down:84,up:85});b('Weapon release',[8],{down:350,up:351});
+ b('Gun fire',[7],{down:84,up:85},[1]);b('Weapon release',[8],{down:350,up:351},[2]);
  b('Wheel brake Both',[3],{down:74,up:75});
  b('Landing Gear Down',[2],{down:3004,cockpit_device_id:12,value_down:0.1});b('Landing Gear Up',[1],{down:3004,cockpit_device_id:12,value_down:0.2});
  p.axis('Flaps','a3017cd12','JOY_SLIDER1');

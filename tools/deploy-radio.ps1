@@ -7,7 +7,9 @@ $volume=Get-Volume -DriveLetter G
 if($volume.FileSystemLabel -ne 'ICARUS_DATA'){throw 'G: is not the expected radio SD card.'}
 if(-not ([IO.File]::ReadAllText('G:\MODELS\model7.yml').Contains('DCS Cockpit'))){throw 'The target model is not DCS Cockpit.'}
 $stamp=Get-Date -Format 'yyyyMMdd-HHmmss'
-$archive=Join-Path $repoRoot "local_archives\radio-deployments\$stamp"
+$icarusRoot=if($env:ICARUS_ROOT){$env:ICARUS_ROOT}else{Join-Path (Split-Path $repoRoot -Parent) 'icarus'}
+$icarusRoot=(Resolve-Path -LiteralPath $icarusRoot -ErrorAction Stop).Path
+$archive=Join-Path $icarusRoot "radios\tx16s\backups\dcs-deployments\$stamp"
 New-Item -ItemType Directory -Force -Path $archive | Out-Null
 $records=@()
 foreach($file in $files){

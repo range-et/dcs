@@ -1,0 +1,7 @@
+{
+  "target": "C:\\Users\\range\\AppData\\Roaming\\TouchPortal\\pages\\DCS\\F14.tml",
+  "backup": "C:/Users/range/Desktop/dcs/local_archives/page-deployments/2026-11-18T07-55-48-842Z/F14.tml",
+  "beforeSHA256": "b948dc8acae5d054df152e19bae9f84feae1316710e855309880ac4340667055",
+  "afterSHA256": "45618e328645a1bf28e0a00d7ddab5113e04713874cded651ee2638b16daf65e",
+  "change": "F14 parking feedback raw OFF=SET, ON=RELEASED; owner-reported reversal; live verification pending"
+}

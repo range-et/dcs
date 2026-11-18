@@ -163,6 +163,7 @@ for(const [file,page] of Object.entries(pages)){
  for(const row of page.BUTTONS)for(let i=0;i<row.length;i++)if(row[i].id&&!row[i].T&&!row[i].A?.length&&!row[i].E?.length)row[i]={};
 }
 const iconManifest=[];require('./apply-dense-hierarchy.cjs')(pages,iconManifest);require('./apply-page-icons.cjs')(pages,iconManifest);
+require('./fix-f14-parking-feedback.cjs')(pages['DCS/F14.tml']);
 fs.mkdirSync(path.join(root,'assets/icons'),{recursive:true});fs.writeFileSync(path.join(root,'assets/icons/manifest.json'),JSON.stringify(iconManifest,null,2)+'\n');
 for(const [file,page] of Object.entries(pages)){
  const out=path.join(root,'pages',file);fs.mkdirSync(path.dirname(out),{recursive:true});fs.writeFileSync(out,JSON.stringify(page,null,2)+'\n');

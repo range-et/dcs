@@ -1,7 +1,7 @@
 local diff = {
 	["keyDiffs"] = {
-		["d84pnilu85cdnilvdnilvpnilvunil"] = { ["name"] = "Gun fire", ["added"] = { [1] = { ["key"] = "JOY_BTN7" } } },
-		["d350pnilu351cdnilvdnilvpnilvunil"] = { ["name"] = "Weapon release", ["added"] = { [1] = { ["key"] = "JOY_BTN8" } } },
+		["d84pnilu85cdnilvdnilvpnilvunil"] = { ["name"] = "Gun fire", ["removed"] = { [1] = { ["key"] = "JOY_BTN1" } }, ["added"] = { [1] = { ["key"] = "JOY_BTN7" } } },
+		["d350pnilu351cdnilvdnilvpnilvunil"] = { ["name"] = "Weapon release", ["removed"] = { [1] = { ["key"] = "JOY_BTN2" } }, ["added"] = { [1] = { ["key"] = "JOY_BTN8" } } },
 		["d74pnilu75cdnilvdnilvpnilvunil"] = { ["name"] = "Wheel brake Both", ["added"] = { [1] = { ["key"] = "JOY_BTN3" } } },
 		["d3004pnilunilcd12vd0.1vpnilvunil"] = { ["name"] = "Landing Gear Down", ["added"] = { [1] = { ["key"] = "JOY_BTN2" } } },
 		["d3004pnilunilcd12vd0.2vpnilvunil"] = { ["name"] = "Landing Gear Up", ["added"] = { [1] = { ["key"] = "JOY_BTN1" } } },

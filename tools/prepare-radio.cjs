@@ -3,7 +3,8 @@
 if(!process.argv.includes('--initial'))throw Error('Use tools/refine-radio.py for the current profile; --initial rebuilds only the historical first checkpoint.');
 const fs=require('fs'),path=require('path');
 const root=path.resolve(__dirname,'..');
-const source=fs.readFileSync(path.join(root,'backups/tx16s/20261026/MODELS/model1.yml'),'utf8');
+const icarusRoot=process.env.ICARUS_ROOT||path.resolve(root,'../icarus');
+const source=fs.readFileSync(path.join(icarusRoot,'radios/tx16s/backups/dcs-20261026/20261026/MODELS/model1.yml'),'utf8');
 if(!source.includes('name: "Sim CABEL"')||!source.includes('usbJoystickExtMode: 0'))throw Error('Unexpected source model');
 let text=source.replace('name: "Sim CABEL"','name: "DCS Cockpit"').replace('labels: ""','labels: "Favorites"').replace('usbJoystickExtMode: 0','usbJoystickExtMode: 1');
 const channels=[];
