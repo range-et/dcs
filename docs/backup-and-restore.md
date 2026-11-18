@@ -25,3 +25,9 @@ baseline-manifest.csv records original paths, backup paths, byte sizes, and SHA-
 A Git clone alone does not recreate ignored installers, executable binaries, local-only full-profile settings, or reference PDFs. Preserve local_archives separately when transferring the setup. This work creates local commits only; no push is implied.
 
 Do not edit baseline in place. New versions belong in working directories and should be deployed with an explicit file list and recorded hashes.
+
+## TX16S backup location (2026-11-03)
+
+Radio SD/model/settings backups now live in `C:/Users/range/Desktop/icarus/radios/tx16s/backups/dcs-20261026/`. This contains the original `20261026` snapshot, `20261026-refinement` radio snapshot, original manifests and the pre-deployment rollback file under `deployments/20261026-215558/`. They were moved with SHA-256 verification; `tx16s-backup-relocation-20261103.csv` maps every previous path to its new location. Historical deployment JSON records retain their original paths for provenance; consult this relocation map when restoring them.
+
+The four DCS joystick-profile backups from the refinement snapshot remain here under `backups/dcs-inputs/20261026-refinement/Config/Input/`. Radio-specific original files are no longer stored in this DCS working tree, though earlier Git commits retain their history. New radio deployment rollback copies go to Icarus at `radios/tx16s/backups/dcs-deployments/`. Radio builders default to the sibling `icarus` repo; set `ICARUS_ROOT` if it is elsewhere. DCS/Touch Portal configuration, native input bindings and DCS integration tools remain in this repo.
